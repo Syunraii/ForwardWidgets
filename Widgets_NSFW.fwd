@@ -1,7 +1,7 @@
 ﻿{
   "title": "Syunraii's Widgets(NSFW)",
   "description": "NSFW widgets, created by Syunraii",
-  "icon": "https://github.com/Syunraii/ForwardWidgets/raw/main/ForwardWidgets_Logo.png",
+  "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/ForwardWidgets_Logo.png",
   "widgets": [
     {
       "id": "jable",
