@@ -4,67 +4,74 @@
   "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/ForwardWidgets_Logo.png",
   "widgets": [
     {
-      "id": "jable",
+      "id": "nsfw.Jable",
       "title": "Jable",
       "description": "在线观看Jable",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "site": "https://github.com/quantumultxx/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Jable.js"
     },
     {
-      "id": "ti.bemarkt.javday",
+      "id": "nsfw.JavDay",
       "title": "JAVDay",
       "description": "在线观看JAVDay",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "site": "https://github.com/quantumultxx/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Javday.js"
     },
     {
-      "id": "ti.bemarkt.javrate",
+      "id": "nsfw.JavRate",
       "title": "JAVRate",
       "description": "在线观看JavRate",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "site": "https://github.com/quantumultxx/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Javrate.js"
     },
     {
-      "id": "91porn",
+      "id": "nsfw.91porn",
       "title": "91Porn",
-      "description": "在线观看91Pron",
+      "description": "在线观看91Porn",
       "requiredVersion": "0.0.1",
-      "version": "0.5.0",
+      "version": "1.0.0",
       "author": "Baran",
+      "site": "https://github.com/baranwang/forward-widget",
       "url": "https://github.com/baranwang/forward-widget/releases/latest/download/91porn.js"
     },
     {
-      "id": "unknow.baranwang.xvideos",
+      "id": "nsfw.XVideos",
       "title": "XVideos",
-      "description": "在线观看Xvideos",
+      "description": "在线观看XVideos",
       "requiredVersion": "0.0.1",
-      "version": "0.9.4",
+      "version": "1.0.0",
       "author": "Baran",
+      "site": "https://github.com/baranwang/forward-widget",
       "url": "https://github.com/baranwang/forward-widget/releases/latest/download/xvideos.js"
     },
     {
-      "id": "Pornhub",
+      "id": "nsfw.Pornhub",
       "title": "Pornhub",
       "description": "在线观看Pornhub",
       "requiredVersion": "0.0.1",
-      "version": "1.0.4",
+      "version": "1.0.0",
       "author": "海带",
+      "site": "https://github.com/Madai-v/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/Madai-v/ForwardWidgets/refs/heads/main/Widgets/ph.js"
     },
     {
-      "id": "Bitch",
+      "id": "nsfw.BitchLives",
       "title": "碧池直播",
       "description": "在线观看碧池直播",
       "requiredVersion": "0.0.1",
-      "version": "1.0.4",
-      "author": "海带",
-      "url": "https://raw.githubusercontent.com/Madai-v/ForwardWidgets/refs/heads/main/Widgets/ph.js"
+      "version": "1.0.0",
+      "author": "Unknown",
+      "site": "Unknown",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/nsfw/Unknown_BitchLives.js"
     }
   ]
 }
