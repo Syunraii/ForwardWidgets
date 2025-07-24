@@ -1,7 +1,7 @@
 ﻿{
   "title": "Syunraii's Widgets(SFW)",
   "description": "SFW widgets, created by Syunraii",
-  "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/ForwardWidgets_Logo.pngs",
+  "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/ForwardWidgets_Logo.png",
   "widgets": [
     {
       "id": "forward.combined.media.lists",
