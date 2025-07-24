@@ -4,8 +4,8 @@
   "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/ForwardWidgets_Logo.png",
   "widgets": [
     {
-      "id": "forward.combined.media.lists",
-      "title": "影视榜单",
+      "id": "sfw.combined.media.lists.old",
+      "title": "【聚合】影视榜单",
       "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
       "requiredVersion": "0.0.1",
       "version": "1.2.9",
@@ -13,8 +13,8 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/quantumultxx_combined.js"
     },
     {
-      "id": "combinedmedialists",
-      "title": "新影视榜单",
+      "id": "sfw.combined.media.lists.new",
+      "title": "【聚合】新影视榜单",
       "description": "影视动画榜单",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
@@ -22,62 +22,8 @@
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Move_list.js"
     },
     {
-      "id": "bangumi_charts_tmdb_v3",
-      "title": "Bangumi 热门榜单",
-      "description": "获取Bangumi近期热门、每日放送数据，支持榜单筛选。",
-      "requiredVersion": "0.0.1",
-      "version": "2.0.0",
-      "author": "Autism",
-      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
-    },
-    {
-      "id": "imdb_discovery_final_v2",
-      "title": "IMDb 分类资源 v2",
-      "description": "聚合 IMDb 热门影视资源",
-      "requiredVersion": "0.0.1",
-      "version": "2.0.0",
-      "author": "Autism",
-      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/IMDb.js"
-    },
-    {
-      "id": "douban",
-      "title": "豆瓣",
-      "description": "解析豆瓣片单，j获取视频信息",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "pack1r",
-      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/douban.js"
-    },
-    {
-      "id": "imdb",
-      "title": "IMDB",
-      "description": "IMDB",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "pack1r",
-      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/imdb.js"
-    },
-    {
-      "id": "hot_picks",
-      "title": "热门精选",
-      "description": "获取最新热播剧和热门影片推荐",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "两块",
-      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/HotPicks.js"
-    },
-    {
-      "id": "person.movie.tmdb",
-      "title": "TMDB人物影视作品",
-      "description": "获取 TMDB 的榜单数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Evan",
-      "url": "https://github.com/EmrysChoo/ForwardWidgets/raw/refs/heads/main/Widgets/person_movie.js"
-    },
-    {
-      "id": "yatu",
-      "title": "雅图(每日放送+点播排行榜+评分排行榜)",
+      "id": "sfw.combined.yatu",
+      "title": "【聚合】雅图",
       "description": "解析雅图每日放送更新以及各类排行榜",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
@@ -85,13 +31,67 @@
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/yatu.js"
     },
     {
-      "id": "letterboxd",
-      "title": "Letterboxd电影爱好者平台",
+      "id": "sfw.combined.letterboxd",
+      "title": "【聚合】Letterboxd电影爱好者平台",
       "description": "解析Letterboxd片单内的影片",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "huangxd",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/letterboxd.js"
+    },
+    {
+      "id": "sfw.combined.hot_picks",
+      "title": "【聚合】热门精选",
+      "description": "获取最新热播剧和热门影片推荐",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "两块",
+      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/HotPicks.js"
+    },
+    {
+      "id": "sfw.imdb.discovery_final_v2",
+      "title": "【IMDb】分类资源",
+      "description": "聚合 IMDb 热门影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "2.0.0",
+      "author": "Autism",
+      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/IMDb.js"
+    },
+    {
+      "id": "sfw.imdb.list",
+      "title": "【IMDb】片单推荐",
+      "description": "解析IMDb片单",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "pack1r",
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/imdb.js"
+    },
+    {
+      "id": "sfw.tmdb.person.movie",
+      "title": "【TMDB】人物影视作品",
+      "description": "根据人物获取TMDB影视作品",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Evan",
+      "url": "https://github.com/EmrysChoo/ForwardWidgets/raw/refs/heads/main/Widgets/person_movie.js"
+    },
+    {
+      "id": "sfw.bangumi.charts_tmdb_v3",
+      "title": "【Bgm】热门榜单",
+      "description": "获取Bangumi近期热门、每日放送数据, 支持榜单筛选。",
+      "requiredVersion": "0.0.1",
+      "version": "2.0.0",
+      "author": "Autism",
+      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
+    },
+    {
+      "id": "sfw.douban.list",
+      "title": "【豆瓣】片单推荐",
+      "description": "解析豆瓣片单",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "pack1r",
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/douban.js"
     }
   ]
 }

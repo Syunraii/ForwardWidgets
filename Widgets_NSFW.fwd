@@ -14,7 +14,7 @@
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Jable.js"
     },
     {
-      "id": "nsfw.JavDay",
+      "id": "nsfw.JAVDay",
       "title": "JAVDay",
       "description": "在线观看JAVDay",
       "requiredVersion": "0.0.1",
@@ -24,9 +24,9 @@
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Javday.js"
     },
     {
-      "id": "nsfw.JavRate",
+      "id": "nsfw.JAVRate",
       "title": "JAVRate",
-      "description": "在线观看JavRate",
+      "description": "在线观看JAVRate",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
@@ -34,7 +34,7 @@
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Javrate.js"
     },
     {
-      "id": "nsfw.91porn",
+      "id": "nsfw.91Porn",
       "title": "91Porn",
       "description": "在线观看91Porn",
       "requiredVersion": "0.0.1",
