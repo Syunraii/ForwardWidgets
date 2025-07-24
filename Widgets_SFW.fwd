@@ -4,21 +4,23 @@
   "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/ForwardWidgets_Logo.png",
   "widgets": [
     {
-      "id": "sfw.combined.media.lists.old",
+      "id": "sfw.combined.media_lists_old",
       "title": "【聚合】影视榜单",
       "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
       "requiredVersion": "0.0.1",
       "version": "1.2.9",
       "author": "阿米诺斯",
+      "site": "https://github.com/quantumultxx/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/quantumultxx_combined.js"
     },
     {
-      "id": "sfw.combined.media.lists.new",
+      "id": "sfw.combined.media_lists_new",
       "title": "【聚合】新影视榜单",
       "description": "影视动画榜单",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "阿米诺斯",
+      "site": "https://github.com/quantumultxx/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Move_list.js"
     },
     {
@@ -28,6 +30,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "huangxd",
+      "site": "https://github.com/huangxd-/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/yatu.js"
     },
     {
@@ -37,6 +40,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "huangxd",
+      "site": "https://github.com/huangxd-/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/letterboxd.js"
     },
     {
@@ -46,6 +50,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "两块",
+      "site": "https://github.com/2kuai/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/HotPicks.js"
     },
     {
@@ -55,6 +60,7 @@
       "requiredVersion": "0.0.1",
       "version": "2.0.0",
       "author": "Autism",
+      "site": "https://github.com/opix-maker/Forward",
       "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/IMDb.js"
     },
     {
@@ -64,15 +70,17 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "pack1r",
+      "site": "https://github.com/pack1r/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/imdb.js"
     },
     {
-      "id": "sfw.tmdb.person.movie",
+      "id": "sfw.tmdb.person_movie",
       "title": "【TMDB】人物影视作品",
       "description": "根据人物获取TMDB影视作品",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Evan",
+      "site": "https://github.com/EmrysChoo/ForwardWidgets",
       "url": "https://github.com/EmrysChoo/ForwardWidgets/raw/refs/heads/main/Widgets/person_movie.js"
     },
     {
@@ -82,6 +90,7 @@
       "requiredVersion": "0.0.1",
       "version": "2.0.0",
       "author": "Autism",
+      "site": "https://github.com/opix-maker/Forward",
       "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
     },
     {
@@ -91,6 +100,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "pack1r",
+      "site": "https://github.com/pack1r/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/douban.js"
     }
   ]
