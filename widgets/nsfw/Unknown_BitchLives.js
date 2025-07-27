@@ -13,8 +13,8 @@
       functionName: "getVideos",
       params: [
         {
-          name: "category",
-          title: "类型",
+          name: "sort_by",
+          title: "排序",
           type: "enumeration",
           enumOptions: [
             { title: "卡哇伊", value: "jsonkawayi" },
@@ -160,12 +160,12 @@
 async function getVideos(params = {}) {
   try {
     // 1. 参数验证
-    if (!params.category) {
-      throw new Error("缺少必要参数: category");
+    if (!params.sort_by) {
+      throw new Error("无效的参数形式");
     }
 
     // 2. 构建请求URL
-    const url = `http://api.maiyoux.com:81/mf/${params.category}.txt`;
+    const url = `http://api.maiyoux.com:81/mf/${params.sort_by}.txt`;
     console.log('[视频获取] 请求URL:', url);
 
     // 3. 发送请求
