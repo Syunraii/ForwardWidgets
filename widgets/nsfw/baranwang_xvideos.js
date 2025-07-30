@@ -852,11 +852,11 @@ WidgetMetadata = {
             functionName: 'getChannelList',
             params: [
                 {
-                    name: 'channel',
+                    name: 'sort_by',
                     title: "\u9891\u9053",
-                    type: 'input',
-                    value: '',
-                    placeholders: [
+                    type: 'enumeration',
+                    value: 'AsiaM',
+                    enumOptions: [
                         {
                             title: 'AsiaM',
                             value: 'asiam'
@@ -1194,10 +1194,11 @@ WidgetMetadata = {
             functionName: 'getPornstarsList',
             params: [
                 {
-                    name: 'pornstar',
+                    name: 'sort_by',
                     title: "\u8272\u60C5\u660E\u661F",
-                    type: 'input',
-                    placeholders: [
+                    type: 'enumeration',
+                    value: 'momoka142',
+                    enumOptions: [
                         {
                             title: 'Chicken1806',
                             value: 'chicken18061'
@@ -1595,7 +1596,7 @@ async function getNewList(params) {
 async function getChannelList(params) {
     const page = params.page ? Number.parseInt(params.page) : 0;
     try {
-        const resp = await widgetAPI.get(`${BASE_URL}/channels/${params.channel}/videos/best/${page}`);
+        const resp = await widgetAPI.get(`${BASE_URL}/channels/${params.sort_by}/videos/best/${page}`);
         const list = resp.videos.map(formatXVideosItem);
         return list;
     } catch (error) {
@@ -1606,7 +1607,7 @@ async function getChannelList(params) {
 async function getPornstarsList(params) {
     const page = params.page ? Number.parseInt(params.page) : 0;
     try {
-        const resp = await widgetAPI.get(`${BASE_URL}/pornstars/${params.pornstar}/videos/best/${page}`);
+        const resp = await widgetAPI.get(`${BASE_URL}/pornstars/${params.sort_by}/videos/best/${page}`);
         const list = resp.videos.map(formatXVideosItem);
         return list;
     } catch (error) {
