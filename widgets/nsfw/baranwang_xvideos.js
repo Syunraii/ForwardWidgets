@@ -829,7 +829,7 @@ WidgetMetadata = {
     version: "0.9.4",
     requiredVersion: '0.0.1',
     site: 'https://github.com/baranwang/forward-widget',
-    detailCacheDuration: 1,
+    detailCacheDuration: 3600,
     modules: [
         {
             id: 'xvideos.new',
