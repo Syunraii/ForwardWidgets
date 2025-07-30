@@ -1,4 +1,4 @@
-﻿{
+{
   "title": "Syunraii's Widgets(SFW)",
   "description": "SFW widgets, created by Syunraii",
   "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/ForwardWidgets_Logo.png",
@@ -123,7 +123,6 @@
       "site": "https://github.com/2kuai/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/TvLive.js"
     },
-
     {
       "id": "sfw.vod.movie_paradise",
       "title": "【VOD】电影天堂",
@@ -154,7 +153,6 @@
       "site": "https://github.com/2kuai/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/ddys.js"
     },
-
     {
       "id": "sfw.vod.maccms",
       "title": "【VOD】在线影视资源",
