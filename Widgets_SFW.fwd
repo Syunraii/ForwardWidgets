@@ -8,20 +8,10 @@
       "title": "【聚合】影视榜单",
       "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
       "requiredVersion": "0.0.1",
-      "version": "1.2.9",
-      "author": "阿米诺斯",
-      "site": "https://github.com/quantumultxx/ForwardWidgets",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/quantumultxx_combined.js"
-    },
-    {
-      "id": "sfw.combined.media_lists_new",
-      "title": "【聚合】新影视榜单",
-      "description": "影视动画榜单",
-      "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "阿米诺斯",
       "site": "https://github.com/quantumultxx/ForwardWidgets",
-      "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Move_list.js"
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/quantumultxx_combined.js"
     },
     {
       "id": "sfw.combined.yatu",
@@ -58,7 +48,7 @@
       "title": "【IMDb】分类资源",
       "description": "聚合 IMDb 热门影视资源",
       "requiredVersion": "0.0.1",
-      "version": "2.0.0",
+      "version": "1.0.0",
       "author": "Autism",
       "site": "https://github.com/opix-maker/Forward",
       "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/IMDb.js"
@@ -168,7 +158,7 @@
       "title": "【VOD】Podcast",
       "description": "获取 RSS 播客数据",
       "requiredVersion": "0.0.1",
-      "version": "2.0.0",
+      "version": "1.0.0",
       "author": "Ti",
       "site": "https://github.com/bemarkt/scripts/tree/master/provider/Forward",
       "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
