@@ -1,5 +1,5 @@
 {
-  "title": "Syunraii's Widgets(SFW)",
+  "title": "My Widgets(SFW)",
   "description": "SFW widgets, created by Syunraii",
   "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/ForwardWidgets_Logo.png",
   "widgets": [
@@ -11,7 +11,7 @@
       "version": "1.0.0",
       "author": "阿米诺斯",
       "site": "https://github.com/quantumultxx/ForwardWidgets",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/quantumultxx_combined.js"
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/combined.js"
     },
     {
       "id": "sfw.combined.yatu",
