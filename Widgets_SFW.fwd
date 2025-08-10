@@ -4,7 +4,7 @@
   "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/ForwardWidgets_Logo.png",
   "widgets": [
     {
-      "id": "forward.danmu.auto",
+      "id": "forward.features.danmu.auto",
       "title": "【功能】自动链接弹幕",
       "description": "自动获取播放链接并从服务器获取弹幕",
       "requiredVersion": "0.0.2",
@@ -13,7 +13,7 @@
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_auto.js"
     },
     {
-      "id": "forward.danmu.playurls",
+      "id": "forward.features.danmu.playurls",
       "title": "【功能】手动链接弹幕",
       "description": "从指定播放链接和服务器获取弹幕",
       "requiredVersion": "0.0.2",
