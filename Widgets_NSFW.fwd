@@ -9,9 +9,9 @@
       "description": "在线观看Jable",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "Ti",
+      "author": "nibiru",
       "site": "https://github.com/quantumultxx/ForwardWidgets",
-      "url": "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/Widgets/Jable.js"
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/jable.js"
     },
     {
       "id": "nsfw.JAVDay",
