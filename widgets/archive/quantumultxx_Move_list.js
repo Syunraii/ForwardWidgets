@@ -1,6 +1,6 @@
 ﻿WidgetMetadata = {
   id: "forward.combined.media.lists",
-  title: "影视榜单",
+  title: "🧰影视榜单",
   description: "影视动画榜单",
   author: "阿米诺斯",
   site: "https://github.com/quantumultxx/ForwardWidgets",
