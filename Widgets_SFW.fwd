@@ -168,7 +168,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "site": "https://github.com/bemarkt/scripts/tree/master/provider/Forward",
+      "site": "https://github.com/bemarkt/scripts",
       "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/vod.js"
     },
     {
@@ -178,7 +178,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "site": "https://github.com/bemarkt/scripts/tree/master/provider/Forward",
+      "site": "https://github.com/bemarkt/scripts",
       "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
     },
     {
