@@ -25,7 +25,7 @@
             { title: "同性片", value: "9" },
             { title: "喜剧片", value: "10" },
             { title: "奇幻片", value: "11" },
-            { title: "恐怖片", value: "12" },
+            { title: "恐怖片", value: "12" }, 
             { title: "悬疑片", value: "20" },
             { title: "惊悚片", value: "21" },
             { title: "灾难片", value: "22" },

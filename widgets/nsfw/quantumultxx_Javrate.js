@@ -4,7 +4,7 @@
   description: "获取 JAVRate 推荐",
   author: "Ti",
   site: "https://www.javrate.com/",
-  version: "1.0.0",
+  version: "2.1.0",
   requiredVersion: "0.0.1",
   detailCacheDuration: 60,
   modules: [
@@ -21,71 +21,71 @@
           title: "搜索艺人",
           type: "input",
           placeholders: [
-            {
-              title: "大槻响", value: "大槻响"
+            { 
+              title: "大槻响", value: "大槻响" 
             },
-            {
-              title: "美園和花", value: "美園和花"
+            { 
+              title: "美園和花", value: "美園和花" 
             },
-            {
-              title: "森澤佳奈", value: "森澤佳奈"
+            { 
+              title: "森澤佳奈", value: "森澤佳奈" 
             },
-            {
-              title: "波多野结衣", value: "波多野结衣"
+            { 
+              title: "波多野结衣", value: "波多野结衣" 
             },
-            {
-              title: "明里紬", value: "明里紬"
+            { 
+              title: "明里紬", value: "明里紬" 
             },
-            {
-              title: "松本一香", value: "松本一香"
+            { 
+              title: "松本一香", value: "松本一香" 
             },
-            {
-              title: "桃乃木香奈", value: "桃乃木香奈"
+            { 
+              title: "桃乃木香奈", value: "桃乃木香奈" 
             },
-            {
-              title: "希島愛理", value: "希島愛理"
+            { 
+              title: "希島愛理", value: "希島愛理" 
             },
-            {
-              title: "天海翼", value: "天海翼"
+            { 
+              title: "天海翼", value: "天海翼" 
             },
-            {
-              title: "JULIA", value: "JULIA"
+            { 
+              title: "JULIA", value: "JULIA" 
             },
-            {
-              title: "新有菜", value: "新有菜"
+            { 
+              title: "新有菜", value: "新有菜" 
             },
-            {
-              title: "美谷朱里", value: "美谷朱里"
+            { 
+              title: "美谷朱里", value: "美谷朱里" 
             },
-            {
-              title: "相澤南", value: "相澤南"
+            { 
+              title: "相澤南", value: "相澤南" 
             },
-            {
-              title: "藤森里穂", value: "藤森里穂"
+            { 
+              title: "藤森里穂", value: "藤森里穂" 
             },
-            {
-              title: "天使萌", value: "天使萌"
+            { 
+              title: "天使萌", value: "天使萌" 
             },
-            {
-              title: "AIKA", value: "AIKA"
+            { 
+              title: "AIKA", value: "AIKA" 
             },
-            {
-              title: "葵司", value: "葵司"
+            { 
+              title: "葵司", value: "葵司" 
             },
-            {
-              title: "小野夕子", value: "小野夕子"
+            { 
+              title: "小野夕子", value: "小野夕子" 
             },
-            {
-              title: "楪可憐", value: "楪可憐"
+            { 
+              title: "楪可憐", value: "楪可憐" 
             },
-            {
-              title: "三上悠亜", value: "三上悠亜"
+            { 
+              title: "三上悠亜", value: "三上悠亜" 
             },
-            {
-              title: "水户香奈", value: "水户香奈"
+            { 
+              title: "水户香奈", value: "水户香奈" 
             },
-            {
-              title: "小沢菜穂", value: "小沢菜穂"
+            { 
+              title: "小沢菜穂", value: "小沢菜穂" 
             }
           ],
           value: "大槻响",
@@ -359,7 +359,7 @@
           value: "NTR",
           description: "选择要浏览的分类"
         },
-        //职业选项
+         //职业选项
         {
           name: "tagValue",
           title: "具体标签",
@@ -773,9 +773,9 @@
         }
       ]
     },
-    // 首页版块
+    // 首页分类
     {
-      title: "首页版块",
+      title: "首页分类",
       description: "选择需要浏览的分类",
       requiresWebView: false,
       functionName: "loadPage",
@@ -787,12 +787,30 @@
           type: "enumeration",
           enumOptions: [
             { title: "最新发布", value: "/movie/new/" },
-            { title: "热门排行", value: "/best" },
+            { title: "热门排行", value: "/best/thisweek" },
             { title: "无码A片", value: "/menu/uncensored/5-2-" },
             { title: "日本A片", value: "/menu/censored/5-2-" },
             { title: "国产AV", value: "/menu/chinese/5-2-" }
           ],
           value: "/movie/new/"
+        },
+        {
+          name: "sort_by",
+          title: "时间范围",
+          type: "enumeration",
+          belongTo: {
+            paramName: "categoryType",
+            value: ["/best/thisweek"],
+          },
+          enumOptions: [
+            { title: "最近一周", value: "/best/thisweek" },
+            { title: "最近一月", value: "/best/thismonth" },
+            { title: "最近半年", value: "/best/thishalfyear" },
+            { title: "最近一年", value: "/best/thisyear" },
+            { title: "全部时间", value: "/best" }
+          ],
+          value: "/best/thisweek",
+          description: "选择要查看的时间范围（仅热门排行有效）"
         },
         {
           name: "page",
@@ -814,77 +832,77 @@
           title: "选择或输入出品厂商",
           type: "input",
           placeholders: [
-            {
-              title: "S1", value: "S1"
+            { 
+              title: "S1", value: "S1" 
             },
-            {
-              title: "SOD", value: "SOD"
+            { 
+              title: "SOD", value: "SOD" 
             },
-            {
-              title: "麻豆传媒", value: "麻豆傳媒"
+            { 
+              title: "麻豆传媒", value: "麻豆傳媒" 
             },
-            {
-              title: "蚊香社", value: "蚊香社"
+            { 
+              title: "蚊香社", value: "蚊香社" 
             },
-            {
-              title: "91製片廠", value: "91製片廠"
+            { 
+              title: "91製片廠", value: "91製片廠" 
             },
-            {
-              title: "果凍傳媒", value: "果凍傳媒"
+            { 
+              title: "果凍傳媒", value: "果凍傳媒" 
             },
-            {
-              title: "抖陰", value: "抖陰"
+            { 
+              title: "抖陰", value: "抖陰" 
             },
-            {
-              title: "H.M.P芳友舍", value: "H.M.P 芳友舍"
+            { 
+              title: "H.M.P芳友舍", value: "H.M.P 芳友舍" 
             },
-            {
-              title: "天美傳媒", value: "天美傳媒"
+            { 
+              title: "天美傳媒", value: "天美傳媒" 
             },
-            {
-              title: "蜜桃影像傳媒", value: "蜜桃影像傳媒"
+            { 
+              title: "蜜桃影像傳媒", value: "蜜桃影像傳媒" 
             },
-            {
-              title: "星空無限傳媒", value: "星空無限傳媒"
+            { 
+              title: "星空無限傳媒", value: "星空無限傳媒" 
             },
-            {
-              title: "精東影業", value: "精東影業"
+            { 
+              title: "精東影業", value: "精東影業" 
             },
-            {
-              title: "皇家華人", value: "皇家華人"
+            { 
+              title: "皇家華人", value: "皇家華人" 
             },
-            {
-              title: "桃太郎映像出版", value: "桃太郎映像出版"
+            { 
+              title: "桃太郎映像出版", value: "桃太郎映像出版" 
             },
-            {
-              title: "水晶映像", value: "水晶映像"
+            { 
+              title: "水晶映像", value: "水晶映像" 
             },
-            {
-              title: "本中", value: "本中"
+            { 
+              title: "本中", value: "本中" 
             },
-            {
-              title: "溜池", value: "溜池"
+            { 
+              title: "溜池", value: "溜池" 
             },
-            {
-              title: "癡女特化", value: "癡女特化"
+            { 
+              title: "癡女特化", value: "癡女特化" 
             },
-            {
-              title: "無垢", value: "無垢"
+            { 
+              title: "無垢", value: "無垢" 
             },
-            {
-              title: "熟女人妻最強廠", value: "熟女人妻最強廠"
+            { 
+              title: "熟女人妻最強廠", value: "熟女人妻最強廠" 
             },
-            {
-              title: "妄想族", value: "妄想族"
+            { 
+              title: "妄想族", value: "妄想族" 
             },
-            {
-              title: "人妻花園劇場", value: "人妻花園劇場"
+            { 
+              title: "人妻花園劇場", value: "人妻花園劇場" 
             },
-            {
-              title: "人妻官能AV", value: "人妻官能AV"
+            { 
+              title: "人妻官能AV", value: "人妻官能AV" 
             },
-            {
-              title: "変態紳士倶楽部", value: "変態紳士倶楽部"
+            { 
+              title: "変態紳士倶楽部", value: "変態紳士倶楽部" 
             }
           ],
           value: "S1",
@@ -901,7 +919,7 @@
 };
 
 
-const ARTIST_MAP_REMOTE_URL = "https://raw.githubusercontent.com/quantumultxx/ForwardWidgets/refs/heads/main/data/javrate_actors.json";
+const ARTIST_MAP_REMOTE_URL = "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/javrate_actors.json";
 let artistMapCache = null;
 let artistMapCacheTime = 0;
 const CACHE_DURATION = 24 * 60 * 60 * 1000;
@@ -918,31 +936,25 @@ async function fetchArtistMap() {
   if (artistMapCache && Date.now() - artistMapCacheTime < CACHE_DURATION) {
     return artistMapCache;
   }
-
+  
   try {
     const response = await Widget.http.get(ARTIST_MAP_REMOTE_URL, {
       headers: getCommonHeaders()
     });
-
+    
     if (!response.data) throw new Error("艺人列表返回空数据");
-
-    let rawData = typeof response.data === "object"
-      ? response.data
+    
+    artistMapCache = typeof response.data === "object" 
+      ? response.data 
       : JSON.parse(response.data);
-
-    if (typeof rawData !== "object" || rawData === null) {
+    
+    if (typeof artistMapCache !== "object" || artistMapCache === null) {
       throw new Error("艺人列表格式无效");
     }
-
-    if (rawData.actors && typeof rawData.actors === "object") {
-      artistMapCache = rawData.actors;
-    } else {
-      artistMapCache = rawData;
-    }
-
+    
     artistMapCacheTime = Date.now();
     return artistMapCache;
-
+    
   } catch (error) {
     console.error("艺人列表加载失败:", error.message);
     throw new Error("无法加载艺人列表: " + error.message);
@@ -960,7 +972,7 @@ async function normalizeArtistName(name) {
 
 function parseDetailPage(detailPageHtml, detailPageUrl) {
   const $ = Widget.html.load(detailPageHtml);
-
+  
   const titleH1 = $("h1.mb-2.mt-1");
   const movieNumber = titleH1.find("strong.fg-main").text().trim();
   const titleClone = titleH1.clone();
@@ -992,10 +1004,10 @@ function parseDetailPage(detailPageHtml, detailPageUrl) {
   $('.main-content > .left h4:contains("发片日期")')
     .next("div.col-auto")
     .find("h4")
-    .each(function () {
+    .each(function() {
       releaseDate = $(this).text().trim();
     });
-
+  
   if (releaseDate) {
     const dateMatch = releaseDate.match(/(\d{4})年(\d{1,2})月(\d{1,2})日/);
     if (dateMatch) {
@@ -1080,11 +1092,11 @@ async function parseItems(currentBaseUrl, $, listPageUrl) {
   items.each((index, element) => {
     try {
       const item = $(element);
-
+      
       const linkElement = item.find(".mgn-title a");
       const relativeLink = linkElement.attr("href");
       const titleElement = item.find(".mgn-title h3");
-
+      
       if (!relativeLink || !titleElement.length) return;
 
       const movieNumber = titleElement.find("strong").text().trim();
@@ -1134,36 +1146,37 @@ async function fetchDataForPath(path, params = {}) {
     const artistId = path.match(/\/actor\/movie\/([^\/]+)\.html$/)?.[1];
     if (!artistId) {
       return [{
-        id: "artist-id-error",
-        type: "url",
-        title: "艺人识别错误",
-        description: `无法从URL识别艺人ID: ${path}`,
-        backdropPath: "",
-        link: path
+        id: "artist-id-error", 
+        type: "url", 
+        title: "艺人识别错误", 
+        description: `无法从URL识别艺人ID: ${path}`, 
+        backdropPath: "", 
+        link: path 
       }];
     }
-    requestUrl = page > 1
+    requestUrl = page > 1 
       ? `${BASE_URL}/actor/movie/1-0-2-${page}/${artistId}.html`
       : `${BASE_URL}${path}`;
   }
   else if (path.startsWith("/keywords/movie/")) {
-    requestUrl = page > 1
+    requestUrl = page > 1 
       ? `${BASE_URL}${path}?page=${page}&sort=5`
       : `${BASE_URL}${path}`;
   }
   else if (path.startsWith("/Issuer/")) {
-    requestUrl = page > 1
+    requestUrl = page > 1 
       ? `${BASE_URL}${path}?page=${page}&sort=5`
       : `${BASE_URL}${path}`;
   }
-  else if (path.startsWith("/best/")) {
-    requestUrl = page > 1
-      ? `${BASE_URL}${path}?page=${page}`
-      : `${BASE_URL}${path}`;
+  else if (path.startsWith("/best/")) { 
+    const sortByPath = params.sort_by || path; 
+    requestUrl = page > 1 
+      ? `${BASE_URL}${sortByPath}?page=${page}` 
+      : `${BASE_URL}${sortByPath}`;
   }
   else if ([
-    "/menu/uncensored/5-2-",
-    "/menu/censored/5-2-",
+    "/menu/uncensored/5-2-", 
+    "/menu/censored/5-2-", 
     "/menu/chinese/5-2-"
   ].includes(path)) {
     requestUrl = `${BASE_URL}${path}${page}`;
@@ -1173,7 +1186,7 @@ async function fetchDataForPath(path, params = {}) {
   }
   else {
     const trimmedPath = path.endsWith("/") ? path.slice(0, -1) : path;
-    requestUrl = page > 1
+    requestUrl = page > 1 
       ? `${BASE_URL}${trimmedPath}/${page}.html`
       : `${BASE_URL}${trimmedPath}`;
   }
@@ -1182,7 +1195,7 @@ async function fetchDataForPath(path, params = {}) {
     const response = await Widget.http.get(requestUrl, {
       headers: getCommonHeaders(),
     });
-
+    
     if (!response?.data) {
       return [{
         id: `${requestUrl}-error`,
@@ -1206,7 +1219,7 @@ async function fetchDataForPath(path, params = {}) {
 
     const $ = Widget.html.load(response.data);
     const items = await parseItems(BASE_URL, $, requestUrl);
-
+    
     if (items.length === 0) {
       return [{
         id: `${requestUrl}-empty`,
@@ -1217,7 +1230,7 @@ async function fetchDataForPath(path, params = {}) {
         link: requestUrl
       }];
     }
-
+    
     return items;
   } catch (error) {
     console.error(`请求失败: ${requestUrl} - ${error.message}`);
@@ -1235,23 +1248,23 @@ async function fetchDataForPath(path, params = {}) {
 
 async function loadDetail(linkValue) {
   let currentBaseUrl = "https://www.javrate.com";
-
+  
   const urlMatch = linkValue.match(/^(https?:\/\/[^/]+)/);
   if (urlMatch) {
     currentBaseUrl = urlMatch[0];
   } else {
     console.warn(`loadDetail: 无法从链接 ${linkValue} 中解析baseUrl，将使用默认值`);
   }
-
+  
   try {
     const response = await Widget.http.get(linkValue, {
       headers: getCommonHeaders(),
     });
-
+    
     if (!response || !response.data) {
       throw new Error("无法加载详情页面: " + linkValue);
     }
-
+    
     const detailData = parseDetailPage(response.data, linkValue);
 
     return {
@@ -1283,30 +1296,30 @@ async function loadDetail(linkValue) {
 
 async function loadPage(params) {
   let path = "";
-
-  if (params?.artistId) {
+  
+    if (params?.artistId) {
     try {
       const artistMap = await fetchArtistMap();
-
+    
       const isUUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(params.artistId);
-
+    
       if (!isUUID) {
-        const normalizedInput = await normalizeArtistName(params.artistId);
+        const normalizedInput = await   normalizeArtistName(params.artistId);
         let matchedId = null;
         let matchedName = null;
         let matchScore = 0;
-
-        for (const [name, id] of Object.entries(artistMap)) {
+      
+        for (const [name, id] of  Object.entries(artistMap)) {
           const normalizedMapName = await normalizeArtistName(name);
-
+        
           if (normalizedMapName === normalizedInput) {
             matchedId = id;
             matchedName = name;
             matchScore = 100;
             break;
           }
-
-          if (normalizedMapName.includes(normalizedInput)) {
+        
+          if  (normalizedMapName.includes(normalizedInput)) {
             const score = normalizedInput.length * 10;
             if (score > matchScore) {
               matchScore = score;
@@ -1315,21 +1328,21 @@ async function loadPage(params) {
             }
           }
         }
-
+      
         if (!matchedId) {
           return [{
             id: "artist-not-found",
-            type: "url",
+            type: "url", 
             title: "艺人未找到",
             description: `未找到艺人: ${params.artistId}\n\n请尝试输入全名或更换艺人名称`,
             backdropPath: "",
             link: ""
           }];
         }
-
+      
         params.artistId = matchedId;
       }
-
+    
       path = `/actor/movie/${params.artistId}.html`;
     } catch (error) {
       console.error("艺人模块处理出错:", error.message);
@@ -1344,22 +1357,22 @@ async function loadPage(params) {
     }
   }
 
-
+  
   else if (params && params.tagType && params.tagValue) {
     const encodedTag = encodeURIComponent(params.tagValue);
     path = `/keywords/movie/${encodedTag}`;
   }
-
+  
   else if (params && params.issuer) {
     const decodedIssuer = decodeURIComponent(params.issuer);
     const encodedIssuer = encodeURIComponent(decodedIssuer);
     path = `/Issuer/${encodedIssuer}`;
   }
-
+  
   else if (params && params.categoryType) {
     path = params.categoryType;
   }
-
+  
   else {
     return [{
       id: "param-error",
@@ -1370,6 +1383,6 @@ async function loadPage(params) {
       link: ""
     }];
   }
-
+  
   return fetchDataForPath(path, params);
 }
