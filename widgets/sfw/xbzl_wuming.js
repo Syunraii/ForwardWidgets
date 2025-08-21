@@ -14,13 +14,13 @@
       functionName: "getVodList",
       params: [
         {
-          name: "apiUrl",
+          name: "sort_by",
           title: "视频源地址",
-          type: "input",
+          type: "enumeration",
           description:
             "当前仅支持苹果CMS的JSON API地址 (例如: https://example.com/api.php/provide/vod/)",
           value: "https://api.wwzy.tv/api.php/provide/vod/",
-          placeholders: [
+          enumOptions: [
             {
               title: "极速资源",
               value: "https://jszyapi.com/api.php/provide/vod/",
@@ -471,7 +471,7 @@ function parseItemFromListApi(apiVideoData, currentApiUrl) {
  * 获取视频列表
  */
 async function getVodList(params = {}) {
-  const apiUrl = params.apiUrl;
+  const apiUrl = params.sort_by;
   if (!apiUrl || String(apiUrl).trim() === "") {
     throw new Error("API源地址 (apiUrl) 不能为空");
   }
@@ -536,7 +536,7 @@ async function getVodList(params = {}) {
  * 搜索视频
  */
 async function searchVod(params = {}) {
-  const apiUrl = params.apiUrl;
+  const apiUrl = params.sort_by;
   if (!apiUrl || String(apiUrl).trim() === "") {
     throw new Error("API源地址 (apiUrl) 不能为空");
   }
