@@ -536,7 +536,7 @@ async function getVodList(params = {}) {
  * 搜索视频
  */
 async function searchVod(params = {}) {
-  const apiUrl = params.sort_by;
+  const apiUrl = params.apiUrl;
   if (!apiUrl || String(apiUrl).trim() === "") {
     throw new Error("API源地址 (apiUrl) 不能为空");
   }
