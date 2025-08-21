@@ -1,7 +1,7 @@
 ﻿var WidgetMetadata = {
   id: "Bitch",
   title: "碧池直播",
-  description: "网络色情平台直播",
+  description: "碧池直播",
   author: "匿名",
   site: "",
   version: "1.0.0",
