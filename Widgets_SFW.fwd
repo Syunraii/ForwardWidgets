@@ -172,16 +172,6 @@
       "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/vod.js"
     },
     {
-      "id": "sfw.vod.podcast",
-      "title": "【VOD】Podcast",
-      "description": "获取 RSS 播客数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "site": "https://github.com/bemarkt/scripts",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
-    },
-    {
       "id": "sfw.vod.keyword_vod",
       "title": "【VOD】Keyword查找vod",
       "description": "根据Keyword,用于VOD",
@@ -190,6 +180,16 @@
       "author": "无名",
       "site": "https://github.com/xbzl/Forward",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/xbzl_wuming.js"
+    },
+    {
+      "id": "sfw.vod.podcast",
+      "title": "【VOD】Podcast",
+      "description": "获取 RSS 播客数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "site": "https://github.com/bemarkt/scripts",
+      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
     }
   ]
 }
