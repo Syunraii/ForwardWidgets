@@ -25,11 +25,11 @@
             "id": "sfw.combined.media_lists_old",
             "title": "【聚合】影视榜单",
             "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
-            "requiredVersion": "0.0.1",
+            "requiredVersion": "0.0.2",
             "version": "1.0.0",
             "author": "阿米诺斯",
-            "site": "https://github.com/quantumultxx/ForwardWidgets",
-            "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/combined.js"
+            "site": "https://widgets-xd.vercel.app",
+            "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/quantumultxx_combined.js"
           },
           {
             "id": "sfw.combined.yatu",
