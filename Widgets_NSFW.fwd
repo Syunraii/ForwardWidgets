@@ -4,8 +4,18 @@
   "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/ForwardWidgets_Logo.png",
   "widgets": [
     {
+      "id": "nsfw.MissAV",
+      "title": "【JAV】MissAV",
+      "description": "在线观看MissAV",
+      "requiredVersion": "0.0.2",
+      "version": "1.0.0",
+      "author": "ButterFly",
+      "site": "https://widgets-xd.vercel.app",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/nsfw/butterfly_MissAV.js"
+    },
+    {
       "id": "nsfw.Jable",
-      "title": "Jable",
+      "title": "【JAV】Jable",
       "description": "在线观看Jable",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
@@ -15,7 +25,7 @@
     },
     {
       "id": "nsfw.JAVDay",
-      "title": "JAVDay",
+      "title": "【JAV】JAVDay",
       "description": "在线观看JAVDay",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
@@ -25,7 +35,7 @@
     },
     {
       "id": "nsfw.JAVRate",
-      "title": "JAVRate",
+      "title": "【JAV】JAVRate",
       "description": "在线观看JAVRate",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
@@ -35,7 +45,7 @@
     },
     {
       "id": "nsfw.91Porn",
-      "title": "91Porn",
+      "title": "【CAV】91Porn",
       "description": "在线观看91Porn",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
@@ -45,7 +55,7 @@
     },
     {
       "id": "nsfw.XVideos",
-      "title": "XVideos",
+      "title": "【AV】XVideos",
       "description": "在线观看XVideos",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
@@ -55,7 +65,7 @@
     },
     {
       "id": "nsfw.Pornhub",
-      "title": "Pornhub",
+      "title": "【AV】Pornhub",
       "description": "在线观看Pornhub",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
@@ -65,7 +75,7 @@
     },
     {
       "id": "nsfw.BitchLives",
-      "title": "碧池直播",
+      "title": "【HLive】碧池直播",
       "description": "在线观看碧池直播",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
