@@ -96,7 +96,7 @@
             "title": "【Bgm】热门榜单",
             "description": "获取Bangumi近期热门、每日放送数据, 支持榜单筛选。",
             "requiredVersion": "0.0.1",
-            "version": "2.0.0",
+            "version": "1.0.0",
             "author": "Autism",
             "site": "https://github.com/opix-maker/Forward",
             "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
@@ -190,6 +190,6 @@
             "author": "Ti",
             "site": "https://github.com/bemarkt/scripts",
             "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
-          },
+          }
         ]
 }
