@@ -13,7 +13,7 @@
             "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_auto.js"
           },
           {
-            "id": "sfw.combined.media_lists_old",
+            "id": "sfw.combined.media_lists",
             "title": "【聚合】影视榜单",
             "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
             "requiredVersion": "0.0.2",
