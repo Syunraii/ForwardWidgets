@@ -13,15 +13,6 @@
             "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_auto.js"
           },
           {
-            "id": "forward.features.danmu.playurls",
-            "title": "【功能】手动链接弹幕",
-            "description": "从指定播放链接和服务器获取弹幕",
-            "requiredVersion": "0.0.2",
-            "version": "1.0.0",
-            "author": "huangxd",
-            "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_playurl.js"
-          },
-          {
             "id": "sfw.combined.media_lists_old",
             "title": "【聚合】影视榜单",
             "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
@@ -96,7 +87,7 @@
             "title": "【Bgm】热门榜单",
             "description": "获取Bangumi近期热门、每日放送数据, 支持榜单筛选。",
             "requiredVersion": "0.0.1",
-            "version": "2.0.0",
+            "version": "1.0.0",
             "author": "Autism",
             "site": "https://github.com/opix-maker/Forward",
             "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
@@ -190,6 +181,6 @@
             "author": "Ti",
             "site": "https://github.com/bemarkt/scripts",
             "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
-          },
+          }
         ]
 }
