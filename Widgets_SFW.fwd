@@ -13,6 +13,15 @@
             "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_auto.js"
           },
           {
+            "id": "forward.features.danmu_universe",
+            "title": "【功能】弹幕Universe",
+            "description": "通用的弹幕聚合插件,获取多个主流视频平台弹幕数据",
+            "requiredVersion": "0.0.2",
+            "version": "1.0.0",
+            "author": "baranwang",
+            "url": "https://unpkg.com/@forward-widget/danmu-universe"
+          },
+          {
             "id": "sfw.combined.media_lists",
             "title": "【聚合】影视榜单",
             "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
