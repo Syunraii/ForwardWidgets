@@ -1,17 +1,17 @@
 ﻿{
   "title": "My Widgets(Unused)",
   "description": "Unused widgets, created by Syunraii",
-  "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/ForwardWidgets_Logo.png",
+  "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/MyAvatar.png",
   "widgets": [
     {
-      "id": "sfw.combined.zhuijurili",
-      "title": "【聚合】追剧日历",
-      "description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、各项榜单、今日推荐等",
-      "requiredVersion": "0.0.1",
+      "id": "sfw.combined.media_lists_en",
+      "title": "【聚合】影视榜单(English.Ver)",
+      "description": "Movie & TV Lists",
+      "requiredVersion": "0.0.2",
       "version": "1.0.0",
-      "author": "huangxd",
-      "site": "https://github.com/pack1r/ForwardWidgets",
-      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/zhuijurili.js"
+      "author": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
+      "site": "https://widgets-xd.vercel.app"
+      "url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/Move_list_EN.js"
     },
     {
       "id": "sfw.trakt.self",
@@ -32,6 +32,26 @@
       "author": "huangxd",
       "site": "https://github.com/pack1r/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/douban.js"
-    }
+    },
+    {
+      "id": "sfw.wallpaper",
+      "title": "【壁纸】WallPaper",
+      "description": "ATV Topshelf动态壁纸",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "VEUS",
+      "site": "Unknown"
+      "url": "https://gist.githubusercontent.com/MrRegret/5fc0fe4bb1266ca2bac04a8efb97bb57/raw"
+    },
+    {
+      "id": "sfw.live.xtream_api_en",
+      "title": "【Live】Xtream API",
+      "description": "通过带有关键字搜索的官方Xtream-Codes REST API，获取直播频道",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "VEUS",
+      "site": "Unknown"
+      "url": "https://gist.githubusercontent.com/MrRegret/1b47fe77b505ef46893ca03cd1356b4f/raw"
+    },
   ]
 }

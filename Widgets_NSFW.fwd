@@ -1,7 +1,7 @@
 ﻿{
   "title": "My Widgets(NSFW)",
   "description": "NSFW widgets, created by Syunraii",
-  "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/ForwardWidgets_Logo.png",
+  "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/MyAvatar.png",
   "widgets": [
     {
       "id": "nsfw.MissAV",
