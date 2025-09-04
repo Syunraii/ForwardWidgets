@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.2",
       "version": "1.0.0",
       "author": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
-      "site": "https://widgets-xd.vercel.app"
+      "site": "https://widgets-xd.vercel.app",
       "url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/Move_list_EN.js"
     },
     {
@@ -39,8 +39,8 @@
       "description": "ATV Topshelf动态壁纸",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "VEUS",
-      "site": "Unknown"
+      "author": "Unknown",
+      "site": "Unknown",
       "url": "https://gist.githubusercontent.com/MrRegret/5fc0fe4bb1266ca2bac04a8efb97bb57/raw"
     },
     {
@@ -49,8 +49,8 @@
       "description": "通过带有关键字搜索的官方Xtream-Codes REST API，获取直播频道",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "VEUS",
-      "site": "Unknown"
+      "author": "Unknown",
+      "site": "Unknown",
       "url": "https://gist.githubusercontent.com/MrRegret/1b47fe77b505ef46893ca03cd1356b4f/raw"
     }
   ]
