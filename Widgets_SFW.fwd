@@ -10,6 +10,7 @@
             "requiredVersion": "0.0.2",
             "version": "1.0.0",
             "author": "huangxd",
+            "site": "https://github.com/huangxd-/ForwardWidgets",
             "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_auto.js"
           },
           {
@@ -19,6 +20,7 @@
             "requiredVersion": "0.0.2",
             "version": "1.0.0",
             "author": "baranwang",
+            "site": "https://github.com/baranwang/forward-widget",
             "url": "https://unpkg.com/@forward-widget/danmu-universe"
           },
           {
