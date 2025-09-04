@@ -34,8 +34,8 @@
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/douban.js"
     },
     {
-      "id": "sfw.wallpaper",
-      "title": "【壁纸】WallPaper",
+      "id": "forward.features.wallpaper",
+      "title": "【功能】WallPaper",
       "description": "ATV Topshelf动态壁纸",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
