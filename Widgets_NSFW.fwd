@@ -51,7 +51,7 @@
       "version": "1.0.0",
       "author": "Baran",
       "site": "https://github.com/baranwang/forward-widget",
-      "url": "https://github.com/baranwang/forward-widget/releases/latest/download/91porn.js"
+      "url": "https://unpkg.com/@forward-widget/nsfw/91porn"
     },
     {
       "id": "nsfw.XVideos",
@@ -61,7 +61,7 @@
       "version": "1.0.0",
       "author": "Baran",
       "site": "https://github.com/baranwang/forward-widget",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/nsfw/baranwang_xvideos.js"
+      "url": "https://unpkg.com/@forward-widget/nsfw/xvideos"
     },
     {
       "id": "nsfw.Pornhub",
