@@ -104,6 +104,15 @@
             "url": "https://github.com/EmrysChoo/ForwardWidgets/raw/refs/heads/main/Widgets/person_movie.js"
           },
           {
+            "id": "sfw.bangumi.testBgm",
+            "title": "【Bgm】聚合数据",
+            "description": "把原影视榜单中的Bgm分离，以保持影视榜单更新",
+            "requiredVersion": "0.0.1",
+            "version": "1.0.0",
+            "author": "阿米诺斯",
+            "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bgm.js"
+          },
+          {
             "id": "sfw.bangumi.charts_tmdb_v3",
             "title": "【Bgm】热门榜单",
             "description": "获取Bangumi近期热门、每日放送数据, 支持榜单筛选。",
