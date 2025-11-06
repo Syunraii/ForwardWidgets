@@ -110,7 +110,7 @@
             "requiredVersion": "0.0.1",
             "version": "1.0.0",
             "author": "阿米诺斯",
-            "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bgm.js"
+            "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/Bgm.js"
           },
           {
             "id": "sfw.bangumi.charts_tmdb_v3",
