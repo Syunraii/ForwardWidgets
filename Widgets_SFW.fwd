@@ -30,8 +30,8 @@
             "requiredVersion": "0.0.2",
             "version": "1.0.0",
             "author": "阿米诺斯",
-            "site": "https://widgets-xd.vercel.app",
-            "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/quantumultxx_combined.js"
+            "site": "https://for-ward.vercel.app",
+            "url": "https://for-ward.vercel.app/Widgets/combined.js"
           },
           {
             "id": "sfw.combined.yatu",

@@ -1,8 +1,11 @@
 ﻿WidgetMetadata = {
     id: "forward.combined.bangumi",
     title: "Bangumi",
-    author: "阿米诺斯",
-    description: "把原影视榜单中的Bgm分离，以保持影视榜单更新",
+    description: "从原'影视榜单'分离bgm模块，保证'影视榜单'更新",
+    site: "https://for-ward.vercel.app",
+    version: "1.0.0",
+    requiredVersion: "0.0.2",
+    detailCacheDuration: 86400,
     modules: [
         // =============BGM模块=============
         {
@@ -10,7 +13,7 @@
             description: "浏览近期热门动画",
             requiresWebView: false,
             functionName: "fetchRecentHot_bg",
-            cacheDuration: 3600,
+            cacheDuration: 86400,
             params: [
                 { name: "page", title: "页码", type: "page" }
             ]
@@ -20,7 +23,7 @@
             description: "按年份、季度/全年、标签、分类、题材、地区、受众等浏览动画排行，并可按作品名筛选",
             requiresWebView: false,
             functionName: "fetchAirtimeRanking_bg",
-            cacheDuration: 3600,
+            cacheDuration: 86400,
             params: [
                 {
                     name: "type",
@@ -177,7 +180,7 @@
             requiresWebView: false,
             functionName: "fetchDailyCalendarApi_bg",
             sectionMode: false,
-            cacheDuration: 3600,
+            cacheDuration: 86400,
             params: [
                 {
                     name: "filterType",
@@ -241,7 +244,7 @@
             description: "按标签、年份、月份浏览动画列表，支持排序和分页。",
             requiresWebView: false,
             functionName: "fetchBangumiTagPage_bg",
-            cacheDuration: 3600,
+            cacheDuration: 86400,
             params: [
                 {
                     name: "tag_keyword",
@@ -333,8 +336,7 @@
             ]
         }
     ]
-};
-
+}
 
 //===============BGM功能函数===============
 const WidgetConfig_bg = {
