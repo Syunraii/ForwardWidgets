@@ -104,7 +104,7 @@
             "url": "https://github.com/EmrysChoo/ForwardWidgets/raw/refs/heads/main/Widgets/person_movie.js"
           },
           {
-            "id": "sfw.bangumi.testBgm",
+            "id": "sfw.bangumi.combined",
             "title": "【Bgm】聚合数据",
             "description": "把原影视榜单中的Bgm分离，以保持影视榜单更新",
             "requiredVersion": "0.0.1",
