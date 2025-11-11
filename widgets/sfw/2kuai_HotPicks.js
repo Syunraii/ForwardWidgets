@@ -3,10 +3,10 @@
 var WidgetMetadata = {
   id: "hot_picks",
   title: "热门精选",
-  description: "获取最新热播剧和热门影片推荐",
+  description: "获取最新热门影片推荐",
   author: "两块",
   site: "https://github.com/2kuai/ForwardWidgets",
-  version: "1.1.7",
+  version: "1.1.8",
   requiredVersion: "0.0.1",
   modules: [
     {
@@ -91,7 +91,7 @@ var WidgetMetadata = {
             { title: "武侠", value: "武侠" },
             { title: "纪录片", value: "纪录片" },
             { title: "短片", value: "短片" },
-
+            
           ]
         },
         {
@@ -149,13 +149,13 @@ var WidgetMetadata = {
           name: "tags",
           title: "标签",
           type: "input",
-          description: "设置自定义标签，例如：丧尸"
+          description: "设置自定义标签，例如：丧尸"  
         },
         {
           name: "rating",
           title: "评分",
           type: "input",
-          description: "设置最低评分过滤，例如：6"
+          description: "设置最低评分过滤，例如：6"  
         },
         {
           name: "offset",
@@ -165,7 +165,7 @@ var WidgetMetadata = {
       ]
     },
     {
-      title: "电影推荐",
+      title: "电影推荐",  
       description: "最近热门电影推荐",
       requiresWebView: false,
       functionName: "getHotMovies",
@@ -207,7 +207,7 @@ var WidgetMetadata = {
           name: "rating",
           title: "评分",
           type: "input",
-          description: "设置最低评分过滤，例如：6"
+          description: "设置最低评分过滤，例如：6"  
         },
         {
           name: "offset",
@@ -262,34 +262,34 @@ var WidgetMetadata = {
       ]
     },
     {
-      title: "悬疑剧场",
-      description: "获取悬疑剧场剧集信息",
-      requiresWebView: false,
-      functionName: "getSuspenseTheater",
-      cacheDuration: 86400,
-      params: [
+        title: "悬疑剧场",
+        description: "获取悬疑剧场剧集信息",
+        requiresWebView: false,
+        functionName: "getSuspenseTheater",
+        cacheDuration: 86400,
+        params: [
         {
-          name: "type",
-          title: "类别",
-          type: "enumeration",
-          description: "选择剧集上映时间",
-          enumOptions: [
-            { title: "正在热播", value: "now_playing" },
-            { title: "即将上线", value: "coming_soon" }
-          ]
+            name: "type",
+            title: "类别",
+            type: "enumeration",
+            description: "选择剧集上映时间",
+            enumOptions: [
+                { title: "正在热播", value: "now_playing" },
+                { title: "即将上线", value: "coming_soon" }
+            ]
         },
         {
-          name: "sort_by",
-          title: "类型",
-          type: "enumeration",
-          description: "选择要查看的剧场类型",
-          enumOptions: [
-            { title: "全部剧场", value: "all" },
-            { title: "迷雾剧场", value: "迷雾剧场" },
-            { title: "白夜剧场", value: "白夜剧场" },
-            { title: "季风剧场", value: "季风剧场" },
-            { title: "X剧场", value: "X剧场" }
-          ]
+            name: "sort_by",
+            title: "类型",
+            type: "enumeration",
+            description: "选择要查看的剧场类型",
+            enumOptions: [
+                { title: "全部剧场", value: "all" },
+                { title: "迷雾剧场", value: "迷雾剧场" },
+                { title: "白夜剧场", value: "白夜剧场" },
+                { title: "季风剧场", value: "季风剧场" },
+                { title: "X剧场", value: "X剧场" }
+            ]
         }
       ]
     },
@@ -307,7 +307,7 @@ var WidgetMetadata = {
           enumOptions: [
             { title: "正在上映", value: "nowplaying" },
             { title: "即将上映", value: "coming" },
-            { title: "历史票房", value: "historyRank" }
+            { title: "经典影片", value: "classics" }
           ]
         }
       ]
@@ -400,133 +400,133 @@ var WidgetMetadata = {
 
 // 实时榜单
 async function getTVRanking(params = {}) {
-  try {
-    const response = await Widget.http.get(`https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/data/maoyan-data.json`, {
-      headers: {
-        "User-Agent": USER_AGENT,
-        "referer": "https://piaofang.maoyan.com/dashboard/web-heat"
-      }
-    });
+    try {       
+        const response = await Widget.http.get(`https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/data/maoyan-data.json`, {
+            headers: {
+                "User-Agent": USER_AGENT,
+                "referer": "https://piaofang.maoyan.com/dashboard/web-heat"
+            }
+        });
 
-    if (!response || !response.data) throw new Error("获取数据失败");
-    if (!response.data[params.seriesType] || !response.data[params.seriesType][params.sort_by]) throw new Error("获取剧场失败");
+        if (!response || !response.data) throw new Error("获取数据失败");
+        if (!response.data[params.seriesType] || !response.data[params.seriesType][params.sort_by]) throw new Error("获取剧场失败");
 
-    return response.data[params.seriesType][params.sort_by];
+        return response.data[params.seriesType][params.sort_by];
 
-  } catch (error) {
-    throw new Error(`获取榜单失败: ${error.message}`);
-  }
+    } catch (error) {
+        throw new Error(`获取榜单失败: ${error.message}`);
+    }
 }
 
 // 观影偏好
 async function getPreferenceRecommendations(params = {}) {
-  try {
-    const rating = params.rating || "0";
-    if (!/^\d$/.test(String(rating))) throw new Error("评分必须为 0～9 的整数");
+    try {
+        const rating = params.rating || "0";
+        if (!/^\d$/.test(String(rating))) throw new Error("评分必须为 0～9 的整数");
 
-    const selectedCategories = {
-      "类型": params.genre || "",
-      "地区": params.region || ""
-    };
+        const selectedCategories = {
+            "类型": params.genre || "",
+            "地区": params.region || ""
+        };
 
-    const tags_sub = [];
-    if (params.genre) tags_sub.push(params.genre);
-    if (params.region) tags_sub.push(params.region);
-    if (params.year) {
-      if (params.year.includes("年代")) {
-        tags_sub.push(params.year);
-      } else {
-        tags_sub.push(`${params.year}年`);
-      }
+        const tags_sub = [];
+        if (params.genre) tags_sub.push(params.genre);
+        if (params.region) tags_sub.push(params.region);
+        if (params.year) {
+            if (params.year.includes("年代")) {
+                tags_sub.push(params.year);
+            } else {
+                tags_sub.push(`${params.year}年`);
+            }
+        }
+        if (params.tags) {
+            const customTagsArray = params.tags.split(',').filter(tag => tag.trim() !== '');
+            tags_sub.push(...customTagsArray);
+        }
+
+        const limit = 20;
+        const offset = Number(params.offset);
+        const url = `https://m.douban.com/rexxar/api/v2/${params.mediaType}/recommend?refresh=0&start=${offset}&count=${Number(offset) + limit}&selected_categories=${encodeURIComponent(JSON.stringify(selectedCategories))}&uncollect=false&score_range=${rating},10&tags=${encodeURIComponent(tags_sub.join(","))}&sort=${params.sort_by}`;
+
+        const response = await Widget.http.get(url, {
+            headers: {
+                "User-Agent": USER_AGENT,
+                "Referer": "https://movie.douban.com/explore"
+            }
+        });
+
+        if (!response.data?.items?.length) throw new Error("未找到匹配的影视作品");
+
+        const validItems = response.data.items.filter(item => item.card === "subject");
+
+        if (!validItems.length) throw new Error("未找到有效的影视作品");
+        
+        if (params.source === "douban") {
+            return validItems.map(item => ({
+                id: item.id,
+                type: "douban",
+                title: item.title,
+                mediaType: params.mediaType
+            }));
+        } else {
+            return await Promise.all(validItems.map(async item => {
+                return await getTmdbDetail(item.title, params.mediaType);
+            }));
+        }
+
+    } catch (error) {
+        throw error;
     }
-    if (params.tags) {
-      const customTagsArray = params.tags.split(',').filter(tag => tag.trim() !== '');
-      tags_sub.push(...customTagsArray);
-    }
-
-    const limit = 20;
-    const offset = Number(params.offset);
-    const url = `https://m.douban.com/rexxar/api/v2/${params.mediaType}/recommend?refresh=0&start=${offset}&count=${Number(offset) + limit}&selected_categories=${encodeURIComponent(JSON.stringify(selectedCategories))}&uncollect=false&score_range=${rating},10&tags=${encodeURIComponent(tags_sub.join(","))}&sort=${params.sort_by}`;
-
-    const response = await Widget.http.get(url, {
-      headers: {
-        "User-Agent": USER_AGENT,
-        "Referer": "https://movie.douban.com/explore"
-      }
-    });
-
-    if (!response.data?.items?.length) throw new Error("未找到匹配的影视作品");
-
-    const validItems = response.data.items.filter(item => item.card === "subject");
-
-    if (!validItems.length) throw new Error("未找到有效的影视作品");
-
-    if (params.source === "douban") {
-      return validItems.map(item => ({
-        id: item.id,
-        type: "douban",
-        title: item.title,
-        mediaType: params.mediaType
-      }));
-    } else {
-      return await Promise.all(validItems.map(async item => {
-        return await getTmdbDetail(item.title, params.mediaType);
-      }));
-    }
-
-  } catch (error) {
-    throw error;
-  }
 }
 
 
 // 电影推荐
 async function getHotMovies(params = {}) {
-  return getDoubanRecs(params, 'movie');
+    return getDoubanRecs(params, 'movie');
 }
 
 // 剧集推荐
 async function getHotTv(params = {}) {
-  return getDoubanRecs(params, 'tv');
+    return getDoubanRecs(params, 'tv');
 }
 
 // 处理豆瓣推荐
 async function getDoubanRecs(params = {}, mediaType) {
-  try {
-    const rating = params.rating || "0";
-    if (!/^\d$/.test(String(rating))) throw new Error("评分必须为 0～9 的整数");
+    try {
+        const rating = params.rating || "0";
+        if (!/^\d$/.test(String(rating))) throw new Error("评分必须为 0～9 的整数");
+        
+        const limit = 30;
+        const offset = Number(params.offset);     
+        const category = params.category != null ? params.category : "tv";        
+        const url = `https://m.douban.com/rexxar/api/v2/subject/recent_hot/${mediaType}?start=${offset}&limit=${offset + limit}&category=${category}&type=${params.sort_by}&score_range=${rating},10`;
+        const response = await Widget.http.get(url, {
+            headers: {
+                "User-Agent": USER_AGENT,
+                "Referer": "https://movie.douban.com/explore"
+            }
+        });
 
-    const limit = 30;
-    const offset = Number(params.offset);
-    const category = params.category != null ? params.category : "tv";
-    const url = `https://m.douban.com/rexxar/api/v2/subject/recent_hot/${mediaType}?start=${offset}&limit=${offset + limit}&category=${category}&type=${params.sort_by}&score_range=${rating},10`;
-    const response = await Widget.http.get(url, {
-      headers: {
-        "User-Agent": USER_AGENT,
-        "Referer": "https://movie.douban.com/explore"
-      }
-    });
+        if (!response.data?.items?.length) throw new Error("数据格式不符合预期");
 
-    if (!response.data?.items?.length) throw new Error("数据格式不符合预期");
+        if (params.source === "douban") {
+            return response.data.items.map(item => ({
+                id: item.id,
+                type: "douban",
+                title: item.title,
+                mediaType: mediaType
+            }));
+        } else {
+            const tmdbDetails = await Promise.all(response.data.items.map(async item => {
+                return await getTmdbDetail(item.title, mediaType);
+            }));
+            // Filter out null values when source is tmdb
+            return tmdbDetails.filter(detail => detail !== null);
+        }
 
-    if (params.source === "douban") {
-      return response.data.items.map(item => ({
-        id: item.id,
-        type: "douban",
-        title: item.title,
-        mediaType: mediaType
-      }));
-    } else {
-      const tmdbDetails = await Promise.all(response.data.items.map(async item => {
-        return await getTmdbDetail(item.title, mediaType);
-      }));
-      // Filter out null values when source is tmdb
-      return tmdbDetails.filter(detail => detail !== null);
+    } catch (error) {
+        throw error;
     }
-
-  } catch (error) {
-    throw error;
-  }
 }
 
 // 悬疑剧场
@@ -541,9 +541,9 @@ async function getSuspenseTheater(params = {}) {
         "User-Agent": USER_AGENT
       }
     });
-
+    
     if (!response?.data) throw new Error("获取剧场数据失败");
-
+    
     const data = response.data;
     const sortBy = params.sort_by || "all"; // 默认全部剧场
     const type = params.type || "now_playing"; // 默认正在热播
@@ -567,15 +567,15 @@ async function getSuspenseTheater(params = {}) {
     } else {
       if (!data[sortBy]) throw new Error(`未找到 ${sortBy} 数据`);
       if (!data[sortBy][section]) throw new Error(`${sortBy} 中没有 ${type} 数据`);
-
+      
       results = data[sortBy][section];
     }
 
-    return results.filter(item =>
+    return results.filter(item => 
       !(tmdbIdBlocklist.includes(String(item.id)) || item.posterPath == null)
     );
 
-
+    
   } catch (error) {
     console.error(`获取剧场数据失败: ${error.message}`);
     throw error;
@@ -593,13 +593,13 @@ async function getMovies(params = {}) {
         "User-Agent": USER_AGENT
       }
     });
-
+    
     if (!response?.data) throw new Error("获取院线数据失败");
-
+    
     const results = response.data[type];
-
+    
     if (!results.length) throw new Error("没有更多数据");
-
+    
     return results.filter(item => item.posterPath != null);
   } catch (error) {
     console.error(`[电影列表] 获取失败: ${error.message}`);
@@ -617,16 +617,16 @@ async function getDoubanWeekly(params = {}) {
         "referer": `https://m.douban.com/subject_collection/${params.type}/`
       }
     });
-
+    
     if (!response.data?.subject_collection_items?.length) throw new Error("无返回数据");
-
+    
     return response.data.subject_collection_items.map(item => ({
       id: item.id,
       type: "douban",
       title: item.title,
       posterPath: item.poster_path || "",
       backdropPath: item.cover_url,
-      description: item.description || "暂无描述",
+      description: item.description|| "暂无描述",
       mediaType: item.type,
       link: `https://movie.douban.com/subject/${item.id}/`
     }));
@@ -639,7 +639,7 @@ async function getDoubanWeekly(params = {}) {
 // 年度榜单
 async function getDouban2024(options = {}) {
   try {
-
+    
     const response = await Widget.http.get("https://movie.douban.com/j/neu/page/27/", {
       headers: {
         "User-Agent": USER_AGENT,
@@ -647,16 +647,16 @@ async function getDouban2024(options = {}) {
       }
     });
 
-    const matched = response.data.widgets?.find(widget =>
+    const matched = response.data.widgets?.find(widget => 
       String(widget.id) === String(options.id)
     );
-
+    
     if (!matched?.source_data) throw new Error("未找到对应的榜单数据");
 
     const sourceData = matched.source_data;
 
     if (Array.isArray(sourceData) && options.sub_id) {
-      const matchedGroup = sourceData.find(group =>
+      const matchedGroup = sourceData.find(group => 
         String(group.subject_collection?.id) === String(options.sub_id)
       );
 
@@ -703,7 +703,7 @@ const getTmdbDetail = async (title, mediaType) => {
     .replace(/第[0-9一二三四五六七八九十]+季/g, '') // 移除季信息
     .trim();
 
-  try {
+  try {        
     const params = {
       query: cleanTitle,
       language: "zh_CN"
@@ -713,7 +713,7 @@ const getTmdbDetail = async (title, mediaType) => {
       params.year = yearMatch;
     }
 
-    const response = await Widget.tmdb.get(`/search/${mediaType}`, { params });
+    const response = await Widget.tmdb.get(`/search/${mediaType}`, {params});
 
     if (!response?.results?.length) {
       console.log(`[TMDB] 无返回数据`);
@@ -721,7 +721,7 @@ const getTmdbDetail = async (title, mediaType) => {
     }
 
     const exactMatch = response.results.find(
-      item =>
+      item => 
         (item.name === cleanTitle || item.title === cleanTitle) ||
         (item.original_name === cleanTitle || item.original_title === cleanTitle)
     );
