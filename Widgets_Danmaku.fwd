@@ -1,0 +1,27 @@
+{
+  "title": "My Widgets(Danmaku)",
+    "description": "Danmaku widgets, created by Syunraii",
+      "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/MyAvatar.png",
+        "widgets": [
+          {
+            "id": "forward.features.danmu_auto",
+            "title": "【功能】自动链接弹幕",
+            "description": "自动获取播放链接并从服务器获取弹幕",
+            "requiredVersion": "0.0.2",
+            "version": "1.0.0",
+            "author": "huangxd",
+            "site": "https://github.com/huangxd-/ForwardWidgets",
+            "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_auto.js"
+          },
+          {
+            "id": "forward.features.danmu_universe",
+            "title": "【功能】弹幕Universe",
+            "description": "通用的弹幕聚合插件,获取多个主流视频平台弹幕数据",
+            "requiredVersion": "0.0.2",
+            "version": "1.0.0",
+            "author": "baranwang",
+            "site": "https://github.com/baranwang/forward-widget",
+            "url": "https://unpkg.com/@forward-widget/danmu-universe"
+          }
+        ]
+}
