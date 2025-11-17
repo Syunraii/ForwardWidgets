@@ -4,7 +4,7 @@
   "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/MyAvatar.png",
   "widgets": [
     {
-      "id": "nsfw.MissAV",
+      "id": "nsfw.alter.MissAV",
       "title": "【JAV】MissAV",
       "description": "在线观看MissAV",
       "requiredVersion": "0.0.2",
@@ -74,7 +74,7 @@
       "url": "https://raw.githubusercontent.com/Madai-v/ForwardWidgets/refs/heads/main/Widgets/ph.js"
     },
     {
-      "id": "nsfw.BitchLives",
+      "id": "nsfw.alter.BitchLives",
       "title": "【Live】碧池直播",
       "description": "在线观看碧池直播",
       "requiredVersion": "0.0.1",

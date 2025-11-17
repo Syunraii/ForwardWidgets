@@ -12,14 +12,26 @@
 
 > 具体改动自行使用文字对比工具
 
-1.[wuming.VOD](https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets/wuming.js)
+1.[wuming.VOD](https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets/wuming.js) ➡️ [alter.keyword_vod](https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/xbzl_wuming.js)
 
     修改为sort_by，使模块内部可通过右上角切换源
 
-2.[Baran.xvideos](https://github.com/baranwang/forward-widget/releases)
+2.~~[Baran.xvideos](https://unpkg.com/@forward-widget/nsfw/xvideos) ➡️ [alter.xvideos](https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/archive/baranwang_xvideos.js)~~
 
     修改为sort_by，使模块内部可通过右上角切换源，若想具体关注某个账号，请使用原版input输入需要关注的id
 
 3.[Bitch](https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/nsfw/Unknown_BitchLives.js)(作者未知)
 
     修改为sort_by，使模块内部可通过右上角切换源
+
+4.[butterfly.MissAV](https://for-ward.vercel.app/Widgets/MissAV.js) ➡️ [alter.MissAV](https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/nsfw/butterfly_MissAV.js)
+
+    修改为sort_by，使模块内部可通过右上角切换源
+
+5.[2kuai.HotPicks](https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/HotPicks.js) ➡️ [alter.HotPicks](https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/2kuai_HotPicks.js)
+
+    备份1.1.8版本，保留了年份筛选的功能
+
+6.[butterfly.combined](https://for-ward.vercel.app/Widgets/combined.js) ➡️ [alter.conbined]()
+
+    分离了bgm模块，保持影视榜单更新

@@ -44,7 +44,7 @@
     "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/letterboxd.js"
   },
   {
-    "id": "sfw.combined.hot_picks",
+    "id": "sfw.alter.combined.hot_picks",
     "title": "【聚合】热门精选",
     "description": "获取最新热播剧和热门影片推荐",
     "requiredVersion": "0.0.1",
@@ -84,7 +84,7 @@
     "url": "https://github.com/EmrysChoo/ForwardWidgets/raw/refs/heads/main/Widgets/person_movie.js"
   },
   {
-    "id": "sfw.bangumi.combined",
+    "id": "sfw.alter.bangumi.combined",
     "title": "【Bgm】聚合数据",
     "description": "把原影视榜单中的Bgm分离，以保持影视榜单更新",
     "requiredVersion": "0.0.1",
@@ -174,7 +174,7 @@
     "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/vod.js"
   },
   {
-    "id": "sfw.vod.keyword_vod",
+    "id": "sfw.alter.vod.keyword_vod",
     "title": "【VOD】Keyword查找vod",
     "description": "根据Keyword,用于VOD",
     "requiredVersion": "0.0.1",
