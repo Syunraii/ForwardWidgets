@@ -6,7 +6,7 @@
 
 # 声明
 
-> 小白请自重，请阅读官方wiki，掌握诸如导出/入、编辑、调试、替换、添加规则等操作，在有一定自查能力后，再向他人提问。提问前务必阅读原作者仓库的README文件，明白自己想要的解决方法，这样才是有效沟通，才不会被人讨厌。附：[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+> 小白请自重，请阅读官方wiki，掌握诸如导出/入、编辑、调试、替换、添加规则等操作，附：[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
 # 涉及修改的模块
 
