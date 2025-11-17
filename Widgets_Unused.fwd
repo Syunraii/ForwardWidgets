@@ -4,23 +4,13 @@
   "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/MyAvatar.png",
   "widgets": [
     {
-      "id": "sfw.combined.media_lists_en",
-      "title": "【聚合】影视榜单(English.Ver)",
-      "description": "Movie & TV Lists",
-      "requiredVersion": "0.0.2",
-      "version": "1.0.0",
-      "author": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
-      "site": "https://widgets-xd.vercel.app",
-      "url": "https://raw.githubusercontent.com/ocd0711/forward_module/master/widgets/Move_list_EN.js"
-    },
-    {
       "id": "sfw.trakt.self",
       "title": "【Trakt】个性化推荐",
       "description": "解析Trakt想看、在看、已看、片单、追剧日历以及根据个人数据生成的个性化推荐",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "huangxd",
-      "site": "https://github.com/pack1r/ForwardWidgets",
+      "site": "https://github.com/huangxd-/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/trakt.js"
     },
     {
@@ -30,7 +20,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "huangxd",
-      "site": "https://github.com/pack1r/ForwardWidgets",
+      "site": "https://github.com/huangxd-/ForwardWidgets",
       "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/douban.js"
     },
     {

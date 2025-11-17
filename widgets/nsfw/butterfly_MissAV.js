@@ -3,7 +3,7 @@
   title: "MissAV",
   description: "获取 MissAV 推荐",
   author: "ButterFly",
-  site: "https://widgets-xd.vercel.app",
+  site: "https://for-ward.vercel.app",
   version: "1.0.0",
   requiredVersion: "0.0.2",
   detailCacheDuration: 300,

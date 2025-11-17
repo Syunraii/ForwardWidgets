@@ -1,196 +1,197 @@
 {
   "title": "My Widgets(SFW)",
-    "description": "SFW widgets, created by Syunraii",
-      "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/MyAvatar.png",
-        "widgets": [
-          {
-            "id": "sfw.combined.media_lists",
-            "title": "【聚合】影视榜单",
-            "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
-            "requiredVersion": "0.0.2",
-            "version": "1.0.0",
-            "author": "阿米诺斯",
-            "site": "https://for-ward.vercel.app",
-            "url": "https://for-ward.vercel.app/Widgets/combined.js"
-          },
-          {
-            "id": "sfw.combined.yatu",
-            "title": "【聚合】雅图",
-            "description": "解析雅图每日放送更新以及各类排行榜",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "huangxd",
-            "site": "https://github.com/huangxd-/ForwardWidgets",
-            "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/yatu.js"
-          },
-          {
-            "id": "sfw.combined.zhuijurili",
-            "title": "【聚合】追剧日历",
-            "description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、各项榜单、今日推荐等",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "huangxd",
-            "site": "https://github.com/pack1r/ForwardWidgets",
-            "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/zhuijurili.js"
-          },
-          {
-            "id": "sfw.combined.letterboxd",
-            "title": "【聚合】Letterboxd电影爱好者平台",
-            "description": "解析Letterboxd片单内的影片",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "huangxd",
-            "site": "https://github.com/huangxd-/ForwardWidgets",
-            "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/letterboxd.js"
-          },
-          {
-            "id": "sfw.combined.hot_picks",
-            "title": "【聚合】热门精选",
-            "description": "获取最新热播剧和热门影片推荐",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "两块",
-            "site": "https://github.com/2kuai/ForwardWidgets",
-            "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/2kuai_HotPicks.js"
-          },
-          {
-            "id": "sfw.imdb.discovery_final_v2",
-            "title": "【IMDb】分类资源",
-            "description": "聚合 IMDb 热门影视资源",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "Autism",
-            "site": "https://github.com/opix-maker/Forward",
-            "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/IMDb.js"
-          },
-          {
-            "id": "sfw.imdb.list",
-            "title": "【IMDb】片单推荐",
-            "description": "解析IMDb片单",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "pack1r",
-            "site": "https://github.com/pack1r/ForwardWidgets",
-            "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/imdb.js"
-          },
-          {
-            "id": "sfw.tmdb.person_movie",
-            "title": "【TMDB】人物影视作品",
-            "description": "根据人物获取TMDB影视作品",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "Evan",
-            "site": "https://github.com/EmrysChoo/ForwardWidgets",
-            "url": "https://github.com/EmrysChoo/ForwardWidgets/raw/refs/heads/main/Widgets/person_movie.js"
-          },
-          {
-            "id": "sfw.bangumi.combined",
-            "title": "【Bgm】聚合数据",
-            "description": "把原影视榜单中的Bgm分离，以保持影视榜单更新",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "阿米诺斯",
-            "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/bgm.js"
-          },
-          {
-            "id": "sfw.bangumi.charts_tmdb_v3",
-            "title": "【Bgm】热门榜单",
-            "description": "获取Bangumi近期热门、每日放送数据, 支持榜单筛选。",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "Autism",
-            "site": "https://github.com/opix-maker/Forward",
-            "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
-          },
-          {
-            "id": "sfw.douban.list",
-            "title": "【豆瓣】片单推荐",
-            "description": "解析豆瓣片单",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "pack1r",
-            "site": "https://github.com/pack1r/ForwardWidgets",
-            "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/douban.js"
-          },
-          {
-            "id": "sfw.live.iptv",
-            "title": "【Live】iptv",
-            "description": "解析直播订阅链接",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "huangxd",
-            "site": "https://github.com/pack1r/ForwardWidgets",
-            "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/live.js"
-          },
-          {
-            "id": "sfw.live.tv_live",
-            "title": "【Live】电视台直播",
-            "description": "获取热门电视直播频道",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.1",
-            "author": "两块",
-            "site": "https://github.com/2kuai/ForwardWidgets",
-            "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/TvLive.js"
-          },
-          {
-            "id": "sfw.vod.movie_paradise",
-            "title": "【VOD】电影天堂",
-            "description": "获取电影天堂资源",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "两块",
-            "site": "https://github.com/2kuai/ForwardWidgets",
-            "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/MovieParadise.js"
-          },
-          {
-            "id": "sfw.vod.cloud_cinema",
-            "title": "【VOD】云端影院",
-            "description": "获取云端影院资源",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "两块",
-            "site": "https://github.com/2kuai/ForwardWidgets",
-            "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/CloudCinema.js"
-          },
-          {
-            "id": "sfw.vod.ddys_tv",
-            "title": "【VOD】低端影视",
-            "description": "获取低端影视资源",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "两块",
-            "site": "https://github.com/2kuai/ForwardWidgets",
-            "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/ddys.js"
-          },
-          {
-            "id": "sfw.vod.maccms",
-            "title": "【VOD】在线影视资源",
-            "description": "获取 VOD 影视数据",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "Ti",
-            "site": "https://github.com/bemarkt/scripts",
-            "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/vod.js"
-          },
-          {
-            "id": "sfw.vod.keyword_vod",
-            "title": "【VOD】Keyword查找vod",
-            "description": "根据Keyword,用于VOD",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "无名",
-            "site": "https://github.com/xbzl/Forward",
-            "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/xbzl_wuming.js"
-          },
-          {
-            "id": "sfw.vod.podcast",
-            "title": "【VOD】Podcast",
-            "description": "获取 RSS 播客数据",
-            "requiredVersion": "0.0.1",
-            "version": "1.0.0",
-            "author": "Ti",
-            "site": "https://github.com/bemarkt/scripts",
-            "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
-          }
-        ]
+  "description": "SFW widgets, created by Syunraii",
+  "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/MyAvatar.png",
+  "widgets": [
+  {
+    "id": "sfw.combined.media_lists",
+    "title": "【聚合】影视榜单",
+    "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
+    "requiredVersion": "0.0.2",
+    "version": "1.0.0",
+    "author": "阿米诺斯",
+    "site": "https://for-ward.vercel.app",
+    "url": "https://for-ward.vercel.app/Widgets/combined.js"
+  },
+  {
+    "id": "sfw.combined.yatu",
+    "title": "【聚合】雅图",
+    "description": "解析雅图每日放送更新以及各类排行榜",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "huangxd",
+    "site": "https://github.com/huangxd-/ForwardWidgets",
+    "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/yatu.js"
+  },
+  {
+    "id": "sfw.combined.zhuijurili",
+    "title": "【聚合】追剧日历",
+    "description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、各项榜单、今日推荐等",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "huangxd",
+    "site": "https://github.com/huangxd-/ForwardWidgets",
+    "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/zhuijurili.js"
+  },
+  {
+    "id": "sfw.combined.letterboxd",
+    "title": "【聚合】Letterboxd电影爱好者平台",
+    "description": "解析Letterboxd片单内的影片",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "huangxd",
+    "site": "https://github.com/huangxd-/ForwardWidgets",
+    "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/letterboxd.js"
+  },
+  {
+    "id": "sfw.combined.hot_picks",
+    "title": "【聚合】热门精选",
+    "description": "获取最新热播剧和热门影片推荐",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "两块",
+    "site": "https://github.com/2kuai/ForwardWidgets",
+    "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/2kuai_HotPicks.js"
+  },
+  {
+    "id": "sfw.imdb.discovery_final_v2",
+    "title": "【IMDb】分类资源",
+    "description": "聚合 IMDb 热门影视资源",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "Autism",
+    "site": "https://github.com/opix-maker/Forward",
+    "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/IMDb.js"
+  },
+  {
+    "id": "sfw.imdb.list",
+    "title": "【IMDb】片单推荐",
+    "description": "解析IMDb片单",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "pack1r",
+    "site": "https://github.com/pack1r/ForwardWidgets",
+    "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/imdb.js"
+  },
+  {
+    "id": "sfw.tmdb.person_movie",
+    "title": "【TMDB】人物影视作品",
+    "description": "根据人物获取TMDB影视作品",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "Evan",
+    "site": "https://github.com/EmrysChoo/ForwardWidgets",
+    "url": "https://github.com/EmrysChoo/ForwardWidgets/raw/refs/heads/main/Widgets/person_movie.js"
+  },
+  {
+    "id": "sfw.bangumi.combined",
+    "title": "【Bgm】聚合数据",
+    "description": "把原影视榜单中的Bgm分离，以保持影视榜单更新",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "阿米诺斯",
+    "site": "https://for-ward.vercel.app",
+    "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/bgm.js"
+  },
+  {
+    "id": "sfw.bangumi.charts_tmdb_v3",
+    "title": "【Bgm】热门榜单",
+    "description": "获取Bangumi近期热门、每日放送数据, 支持榜单筛选。",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "Autism",
+    "site": "https://github.com/opix-maker/Forward",
+    "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
+  },
+  {
+    "id": "sfw.douban.list",
+    "title": "【豆瓣】片单推荐",
+    "description": "解析豆瓣片单",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "pack1r",
+    "site": "https://github.com/pack1r/ForwardWidgets",
+    "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/douban.js"
+  },
+  {
+    "id": "sfw.live.iptv",
+    "title": "【Live】iptv",
+    "description": "解析直播订阅链接",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "huangxd",
+    "site": "https://github.com/huangxd-/ForwardWidgets",
+    "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/live.js"
+  },
+  {
+    "id": "sfw.live.tv_live",
+    "title": "【Live】电视台直播",
+    "description": "获取热门电视直播频道",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.1",
+    "author": "两块",
+    "site": "https://github.com/2kuai/ForwardWidgets",
+    "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/TvLive.js"
+  },
+  {
+    "id": "sfw.vod.movie_paradise",
+    "title": "【VOD】电影天堂",
+    "description": "获取电影天堂资源",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "两块",
+    "site": "https://github.com/2kuai/ForwardWidgets",
+    "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/MovieParadise.js"
+  },
+  {
+    "id": "sfw.vod.cloud_cinema",
+    "title": "【VOD】云端影院",
+    "description": "获取云端影院资源",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "两块",
+    "site": "https://github.com/2kuai/ForwardWidgets",
+    "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/CloudCinema.js"
+  },
+  {
+    "id": "sfw.vod.ddys_tv",
+    "title": "【VOD】低端影视",
+    "description": "获取低端影视资源",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "两块",
+    "site": "https://github.com/2kuai/ForwardWidgets",
+    "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/ddys.js"
+  },
+  {
+    "id": "sfw.vod.maccms",
+    "title": "【VOD】在线影视资源",
+    "description": "获取 VOD 影视数据",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "Ti",
+    "site": "https://github.com/bemarkt/scripts",
+    "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/vod.js"
+  },
+  {
+    "id": "sfw.vod.keyword_vod",
+    "title": "【VOD】Keyword查找vod",
+    "description": "根据Keyword,用于VOD",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "无名",
+    "site": "https://github.com/xbzl/Forward",
+    "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/xbzl_wuming.js"
+  },
+  {
+    "id": "sfw.vod.podcast",
+    "title": "【VOD】Podcast",
+    "description": "获取 RSS 播客数据",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "Ti",
+    "site": "https://github.com/bemarkt/scripts",
+    "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
+  }
+]
 }

@@ -9,7 +9,7 @@ WidgetMetadata = {
     title: "影视榜单",
     description: "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
     author: "阿米诺斯",
-    site: "https://widgets-xd.vercel.app",
+    site: "https://for-ward.vercel.app",
     version: "1.3.3",
     requiredVersion: "0.0.2",
     detailCacheDuration: 60,
@@ -1220,7 +1220,7 @@ async function fetchTmdbData(api, params) {
 
 async function loadTmdbTrendingData() {
     try {
-        const response = await Widget.http.get("https://widgets-xd.vercel.app/data/TMDB_Trending.json", {
+        const response = await Widget.http.get("https://for-ward.vercel.app/data/TMDB_Trending.json", {
             headers: {
                 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15'
             }
@@ -1229,7 +1229,7 @@ async function loadTmdbTrendingData() {
     } catch (error) {
         console.log("远程数据获取失败，回退到基础请求:", error.message);
         try {
-            const fallbackResponse = await Widget.http.get("https://widgets-xd.vercel.app/data/TMDB_Trending.json");
+            const fallbackResponse = await Widget.http.get("https://for-ward.vercel.app/data/TMDB_Trending.json");
             return fallbackResponse.data;
         } catch (fallbackError) {
             console.error("所有请求方式均失败:", fallbackError.message);

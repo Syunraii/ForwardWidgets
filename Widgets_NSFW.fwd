@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.2",
       "version": "1.0.0",
       "author": "ButterFly",
-      "site": "https://widgets-xd.vercel.app",
+      "site": "https://for-ward.vercel.app",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/nsfw/butterfly_MissAV.js"
     },
     {
@@ -20,8 +20,8 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "nibiru",
-      "site": "https://github.com/quantumultxx/ForwardWidgets",
-      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/jable.js"
+      "site": "https://for-ward.vercel.app",
+      "url": "https://for-ward.vercel.app/Widgets/Jable.js"
     },
     {
       "id": "nsfw.JAVDay",
@@ -75,7 +75,7 @@
     },
     {
       "id": "nsfw.BitchLives",
-      "title": "【HLive】碧池直播",
+      "title": "【Live】碧池直播",
       "description": "在线观看碧池直播",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",

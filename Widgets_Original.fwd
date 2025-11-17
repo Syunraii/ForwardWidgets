@@ -1,0 +1,37 @@
+{
+  "title": "My Widgets(Original)",
+  "description": "Original widgets, created by Syunraii",
+  "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/MyAvatar.png",
+  "widgets": [
+    {
+      "id": "original.sfw.combined.hot_picks",
+      "title": "【Original】热门精选",
+      "description": "获取最新热播剧和热门影片推荐",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "两块",
+      "site": "https://github.com/2kuai/ForwardWidgets",
+      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/HotPicks.js"
+    },
+    {
+      "id": "original.sfw.vod.keyword_vod",
+      "title": "【Original】Keyword查找vod",
+      "description": "根据Keyword,用于VOD",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "无名",
+      "site": "https://github.com/xbzl/Forward",
+      "url": "https://raw.githubusercontent.com/xbzl/Forward/refs/heads/main/Widgets/wuming.js"
+    },
+    {
+      "id": "original.nsfw.MissAV",
+      "title": "【Original】MissAV",
+      "description": "在线观看MissAV",
+      "requiredVersion": "0.0.2",
+      "version": "1.0.0",
+      "author": "ButterFly",
+      "site": "https://for-ward.vercel.app",
+      "url": "https://for-ward.vercel.app/Widgets/MissAV.js"
+    }
+  ]
+}
