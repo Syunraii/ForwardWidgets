@@ -141,7 +141,7 @@
     "version": "1.0.0",
     "author": "两块/he2o",
     "site": "https://github.com/2kuai/ForwardWidgets",
-    "url": "https://he2o.vercel.app/Resource/ForwardWidgets/VodStream.b1.js"
+    "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/VodStream.js"
   },
   {
     "id": "sfw.vod.movie_paradise",
