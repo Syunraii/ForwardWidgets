@@ -134,12 +134,12 @@
     "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/TvLive.js"
   },
   {
-    "id": "sfw.vod.vod_sreamb1",
-    "title": "【VOD】Streams.b1",
+    "id": "sfw.vod.vod_stream",
+    "title": "【VOD】Streams",
     "description": "聚合VOD资源",
     "requiredVersion": "0.0.1",
     "version": "1.0.0",
-    "author": "两块/he2o",
+    "author": "两块",
     "site": "https://github.com/2kuai/ForwardWidgets",
     "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/VodStream.js"
   },
