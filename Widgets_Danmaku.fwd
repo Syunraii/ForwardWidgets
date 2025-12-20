@@ -12,6 +12,16 @@
       "author": "baranwang",
       "site": "https://github.com/baranwang/forward-widget",
       "url": "https://unpkg.com/@forward-widget/danmu-universe"
+    },
+    {
+      "id": "forward.features.danmu_api",
+      "title": "【功能】弹幕api聚合",
+      "description": "从danmu_api获取弹幕",
+      "requiredVersion": "0.0.2",
+      "version": "1.0.0",
+      "author": "huangxd-",
+      "site": "https://github.com/huangxd-/ForwardWidgets",
+      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_api.js"
     }
   ]
 }
