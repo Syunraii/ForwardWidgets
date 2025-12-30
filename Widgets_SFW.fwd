@@ -144,6 +144,16 @@
     "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/VodStream.js"
   },
   {
+    "id": "sfw.vod.vod_rrmj",
+    "title": "【VOD】人人美剧",
+    "description": "聚合VOD资源-人人美剧",
+    "requiredVersion": "0.0.1",
+    "version": "1.0.0",
+    "author": "两块",
+    "site": "https://github.com/2kuai/ForwardWidgets",
+    "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/rrmj.js"
+  },
+  {
     "id": "sfw.vod.movie_paradise",
     "title": "【VOD】电影天堂",
     "description": "获取电影天堂资源",
