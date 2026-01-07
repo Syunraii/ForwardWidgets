@@ -1,5 +1,306 @@
-﻿{
+{
   "name": "MyForwardIcons-F-Platforms",
   "description": "国外媒体平台",
-  "icons": []
+  "icons": [
+    {
+      "name": "JP_Abema_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/JP_Abema_1.png"
+    },
+    {
+      "name": "JP_Abema_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/JP_Abema_2.png"
+    },
+    {
+      "name": "US_AMC+",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_AMC+.png"
+    },
+    {
+      "name": "US_AppleTV_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_AppleTV_2.png"
+    },
+    {
+      "name": "US_AppleTv_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_AppleTv_1.png"
+    },
+    {
+      "name": "US_Atv+_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Atv+_1.png"
+    },
+    {
+      "name": "US_Atv+_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Atv+_2.png"
+    },
+    {
+      "name": "US_Atv+_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Atv+_3.png"
+    },
+    {
+      "name": "US_BBC_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_BBC_1.png"
+    },
+    {
+      "name": "US_BBC_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_BBC_2.png"
+    },
+    {
+      "name": "US_BBC_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_BBC_3.png"
+    },
+    {
+      "name": "US_BBC_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_BBC_4.png"
+    },
+    {
+      "name": "US_BritBox",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_BritBox.png"
+    },
+    {
+      "name": "US_ColumbiaPictures_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_ColumbiaPictures_1.png"
+    },
+    {
+      "name": "US_ColumbiaPictures_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_ColumbiaPictures_2.png"
+    },
+    {
+      "name": "US_ColumbiaPictures_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_ColumbiaPictures_3.png"
+    },
+    {
+      "name": "US_ColumbiaPictures_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_ColumbiaPictures_4.png"
+    },
+    {
+      "name": "US_Disney+_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Disney+_1.png"
+    },
+    {
+      "name": "US_Disney+_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Disney+_2.png"
+    },
+    {
+      "name": "US_Disney+_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Disney+_3.png"
+    },
+    {
+      "name": "US_Disney+_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Disney+_4.png"
+    },
+    {
+      "name": "US_Disney+_5",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Disney+_5.png"
+    },
+    {
+      "name": "US_Disney+_6",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Disney+_6.png"
+    },
+    {
+      "name": "US_HBOGo_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_HBOGo_1.png"
+    },
+    {
+      "name": "US_HBOGo_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_HBOGo_2.png"
+    },
+    {
+      "name": "US_HBOMax_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_HBOMax_1.png"
+    },
+    {
+      "name": "US_HBOMax_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_HBOMax_2.png"
+    },
+    {
+      "name": "US_HBOMax_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_HBOMax_3.png"
+    },
+    {
+      "name": "US_HBO_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_HBO_1.png"
+    },
+    {
+      "name": "US_HBO_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_HBO_2.png"
+    },
+    {
+      "name": "US_HBO_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_HBO_3.png"
+    },
+    {
+      "name": "US_HBO_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_HBO_4.png"
+    },
+    {
+      "name": "US_HBO_5",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_HBO_5.png"
+    },
+    {
+      "name": "US_HBO_6",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_HBO_6.png"
+    },
+    {
+      "name": "US_Hulu_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Hulu_1.png"
+    },
+    {
+      "name": "US_Hulu_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Hulu_2.png"
+    },
+    {
+      "name": "US_Hulu_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Hulu_3.png"
+    },
+    {
+      "name": "US_Hulu_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Hulu_4.png"
+    },
+    {
+      "name": "US_Hulu_5",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Hulu_5.png"
+    },
+    {
+      "name": "US_Netflix_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Netflix_1.png"
+    },
+    {
+      "name": "US_Netflix_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Netflix_2.png"
+    },
+    {
+      "name": "US_Netflix_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Netflix_3.png"
+    },
+    {
+      "name": "US_Netflix_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Netflix_4.png"
+    },
+    {
+      "name": "US_Netflix_5",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Netflix_5.png"
+    },
+    {
+      "name": "US_Netflix_6",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Netflix_6.png"
+    },
+    {
+      "name": "US_Paramount+_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_Paramount+_1.png"
+    },
+    {
+      "name": "US_PeacockTV_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_PeacockTV_1.png"
+    },
+    {
+      "name": "US_PeacockTV_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_PeacockTV_2.png"
+    },
+    {
+      "name": "US_PeacockTV_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_PeacockTV_3.png"
+    },
+    {
+      "name": "US_PeacockTV_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_PeacockTV_4.png"
+    },
+    {
+      "name": "US_PrimeVideo_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_PrimeVideo_1.png"
+    },
+    {
+      "name": "US_PrimeVideo_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_PrimeVideo_2.png"
+    },
+    {
+      "name": "US_PrimeVideo_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_PrimeVideo_3.png"
+    },
+    {
+      "name": "US_PrimeVideo_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_PrimeVideo_4.png"
+    },
+    {
+      "name": "US_PrimeVideo_5",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_PrimeVideo_5.png"
+    },
+    {
+      "name": "US_PrimeVideo_6",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/US_PrimeVideo_6.png"
+    },
+    {
+      "name": "Other_JP_LineTv",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_JP_LineTv.png"
+    },
+    {
+      "name": "Other_JP_Niconico_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_JP_Niconico_1.png"
+    },
+    {
+      "name": "Other_JP_Niconico_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_JP_Niconico_2.png"
+    },
+    {
+      "name": "Other_US_Imdb_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Imdb_1.png"
+    },
+    {
+      "name": "Other_US_Plex_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Plex_1.png"
+    },
+    {
+      "name": "Other_US_Plex_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Plex_2.png"
+    },
+    {
+      "name": "Other_US_Plex_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Plex_3.png"
+    },
+    {
+      "name": "Other_US_RottenTomatoes_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_RottenTomatoes_1.png"
+    },
+    {
+      "name": "Other_US_RottenTomatoes_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_RottenTomatoes_2.png"
+    },
+    {
+      "name": "Other_US_RottenTomatoes_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_RottenTomatoes_3.png"
+    },
+    {
+      "name": "Other_US_RottenTomatoes_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_RottenTomatoes_4.png"
+    },
+    {
+      "name": "Other_US_RottenTomatoes_5",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_RottenTomatoes_5.png"
+    },
+    {
+      "name": "Other_US_Tmdb",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Tmdb.png"
+    },
+    {
+      "name": "Other_US_Youtube_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Youtube_1.png"
+    },
+    {
+      "name": "Other_US_Youtube_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Youtube_2.png"
+    },
+    {
+      "name": "Other_US_Youtube_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Youtube_3.png"
+    },
+    {
+      "name": "Other_US_imdb_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_imdb_2.png"
+    },
+    {
+      "name": "Other_US_imdb_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_imdb_3.png"
+    },
+    {
+      "name": "Other_US_imdb_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_imdb_4.png"
+    }
+  ]
 }

@@ -1,5 +1,82 @@
-﻿{
+{
   "name": "MyForwardIcons-Nsfw-Platforms",
   "description": "Nsfw平台",
-  "icons": []
+  "icons": [
+    {
+      "name": "R18_CN_91Porn",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_CN_91Porn.png"
+    },
+    {
+      "name": "R18_JP_1pondo",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_1pondo.png"
+    },
+    {
+      "name": "R18_JP_Fanza",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Fanza.png"
+    },
+    {
+      "name": "R18_JP_Fc2_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Fc2_1.png"
+    },
+    {
+      "name": "R18_JP_Fc2_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Fc2_2.png"
+    },
+    {
+      "name": "R18_JP_Heyzo",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Heyzo.png"
+    },
+    {
+      "name": "R18_JP_Jable_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Jable_1.png"
+    },
+    {
+      "name": "R18_JP_Jable_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Jable_2.png"
+    },
+    {
+      "name": "R18_JP_Jable_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Jable_3.png"
+    },
+    {
+      "name": "R18_JP_Javday",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Javday.png"
+    },
+    {
+      "name": "R18_JP_Javdb_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Javdb_1.png"
+    },
+    {
+      "name": "R18_JP_Javdb_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Javdb_2.png"
+    },
+    {
+      "name": "R18_JP_Javrate",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Javrate.png"
+    },
+    {
+      "name": "R18_JP_Missav_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Missav_1.png"
+    },
+    {
+      "name": "R18_JP_Missav_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Missav_2.png"
+    },
+    {
+      "name": "R18_JP_Supjav",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_Supjav.png"
+    },
+    {
+      "name": "R18_JP_TokyoHot",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_JP_TokyoHot.png"
+    },
+    {
+      "name": "R18_US_Pornhub_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_US_Pornhub_1.png"
+    },
+    {
+      "name": "R18_US_Pornhub_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Nsfw-Platforms/R18_US_Pornhub_2.png"
+    }
+  ]
 }

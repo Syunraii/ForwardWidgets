@@ -1,5 +1,174 @@
-﻿{
+{
   "name": "MyForwardIcons-D-Platforms",
   "description": "国内媒体平台",
-  "icons": []
+  "icons": [
+    {
+      "name": "bangumi_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/bangumi_1.png"
+    },
+    {
+      "name": "bangumi_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/bangumi_2.png"
+    },
+    {
+      "name": "bangumi_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/bangumi_3.png"
+    },
+    {
+      "name": "bangumi_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/bangumi_4.png"
+    },
+    {
+      "name": "bilibili_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/bilibili_1.png"
+    },
+    {
+      "name": "bilibili_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/bilibili_2.png"
+    },
+    {
+      "name": "bilibili_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/bilibili_3.png"
+    },
+    {
+      "name": "bilibili_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/bilibili_4.png"
+    },
+    {
+      "name": "bilibili_5",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/bilibili_5.png"
+    },
+    {
+      "name": "bilibili_6",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/bilibili_6.png"
+    },
+    {
+      "name": "cctv_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/cctv_1.png"
+    },
+    {
+      "name": "cctv_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/cctv_2.png"
+    },
+    {
+      "name": "douban_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/douban_1.png"
+    },
+    {
+      "name": "douban_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/douban_2.png"
+    },
+    {
+      "name": "douban_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/douban_3.png"
+    },
+    {
+      "name": "douban_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/douban_4.png"
+    },
+    {
+      "name": "douban_5",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/douban_5.png"
+    },
+    {
+      "name": "douban_6",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/douban_6.png"
+    },
+    {
+      "name": "iqiyi_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/iqiyi_1.png"
+    },
+    {
+      "name": "iqiyi_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/iqiyi_2.png"
+    },
+    {
+      "name": "iqiyi_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/iqiyi_3.png"
+    },
+    {
+      "name": "iqiyi_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/iqiyi_4.png"
+    },
+    {
+      "name": "iqiyi_5",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/iqiyi_5.png"
+    },
+    {
+      "name": "mgtv_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/mgtv_1.png"
+    },
+    {
+      "name": "mgtv_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/mgtv_2.png"
+    },
+    {
+      "name": "mgtv_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/mgtv_3.png"
+    },
+    {
+      "name": "mgtv_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/mgtv_4.png"
+    },
+    {
+      "name": "mgtv_5",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/mgtv_5.png"
+    },
+    {
+      "name": "tencenvideo_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tencenvideo_1.png"
+    },
+    {
+      "name": "tencenvideo_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tencenvideo_2.png"
+    },
+    {
+      "name": "tencenvideo_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tencenvideo_3.png"
+    },
+    {
+      "name": "tvb_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_1.png"
+    },
+    {
+      "name": "tvb_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_2.png"
+    },
+    {
+      "name": "tvb_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_3.png"
+    },
+    {
+      "name": "tvb_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_4.png"
+    },
+    {
+      "name": "tvb_5",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_5.png"
+    },
+    {
+      "name": "tvb_6",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_6.png"
+    },
+    {
+      "name": "viutv_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/viutv_1.png"
+    },
+    {
+      "name": "youku_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/youku_1.png"
+    },
+    {
+      "name": "youku_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/youku_2.png"
+    },
+    {
+      "name": "youku_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/youku_3.png"
+    },
+    {
+      "name": "youku_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/youku_4.png"
+    }
+  ]
 }
