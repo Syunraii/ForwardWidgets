@@ -25,12 +25,12 @@
     },
     {
       "id": "original.nsfw.MissAV",
-      "title": "【Original】MissAV",
+      "title": "🧰【Original】MissAV",
       "description": "在线观看MissAV",
       "requiredVersion": "0.0.2",
       "version": "1.0.0",
       "author": "ButterFly",
-      "site": "https://for-ward.vercel.app",
+      "site": "Unknown",
       "url": "https://for-ward.vercel.app/Widgets/MissAV.js"
     }
   ]

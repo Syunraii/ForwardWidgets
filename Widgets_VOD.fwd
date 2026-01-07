@@ -1,0 +1,87 @@
+﻿{
+  "title": "My Widgets(Online)",
+  "description": "Online widgets, created by Syunraii",
+  "icon": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/master/MyAvatar.png",
+  "widgets": [
+    {
+      "id": "sfw.vod.vod_stream",
+      "title": "【VOD】Streams",
+      "description": "聚合VOD资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "两块",
+      "site": "https://github.com/2kuai/ForwardWidgets",
+      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/VodStream.js"
+    },
+    {
+      "id": "sfw.vod.vod_rrmj",
+      "title": "【VOD】人人美剧",
+      "description": "聚合VOD资源-人人美剧",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "两块",
+      "site": "https://github.com/2kuai/ForwardWidgets",
+      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/rrmj.js"
+    },
+    {
+      "id": "sfw.vod.vod_jpyy",
+      "title": "【VOD】金牌影院",
+      "description": "聚合VOD资源-金牌影院",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "两块",
+      "site": "https://github.com/2kuai/ForwardWidgets",
+      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/jpyy.js"
+    },
+    {
+      "id": "sfw.alter.vod.keyword_vod",
+      "title": "【VOD】Keyword查找vod",
+      "description": "根据Keyword,用于VOD",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "无名",
+      "site": "https://github.com/xbzl/Forward",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/sfw/xbzl_wuming.js"
+    },
+    {
+      "id": "sfw.vod.maccms",
+      "title": "【VOD】在线影视资源",
+      "description": "获取 VOD 影视数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "site": "https://github.com/bemarkt/scripts",
+      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/vod.js"
+    },
+    {
+      "id": "sfw.vod.podcast",
+      "title": "【VOD】Podcast",
+      "description": "获取 RSS 播客数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "site": "https://github.com/bemarkt/scripts",
+      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
+    },
+    {
+      "id": "sfw.live.iptv",
+      "title": "【Live】iptv",
+      "description": "解析直播订阅链接",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "huangxd",
+      "site": "https://github.com/huangxd-/ForwardWidgets",
+      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/live.js"
+    },
+    {
+      "id": "sfw.live.tv_live",
+      "title": "【Live】电视台直播",
+      "description": "获取热门电视直播频道",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "两块",
+      "site": "https://github.com/2kuai/ForwardWidgets",
+      "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/TvLive.js"
+    },
+  ]
+}

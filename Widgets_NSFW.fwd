@@ -30,18 +30,18 @@
       "requiredVersion": "0.0.2",
       "version": "1.0.0",
       "author": "ButterFly",
-      "site": "https://for-ward.vercel.app",
+      "site": "Unknown",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/nsfw/butterfly_MissAV.js"
     },
     {
-      "id": "nsfw.Jable",
+      "id": "nsfw.alter.Jable",
       "title": "【JAV】Jable",
       "description": "在线观看Jable",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "nibiru",
-      "site": "https://for-ward.vercel.app",
-      "url": "https://for-ward.vercel.app/Widgets/Jable.js"
+      "site": "Unknown",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/widgets/nsfw/nibiru_Jable.js"
     },
     {
       "id": "nsfw.JAVDay",
