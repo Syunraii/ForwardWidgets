@@ -1,0 +1,198 @@
+{
+  "name": "MyForwardIcons-Categories",
+  "description": "类型分类",
+  "icons": [
+    {
+      "name": "anthology_DayAndNight",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/anthology_DayAndNight.png"
+    },
+    {
+      "name": "anthology_LightsOn",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/anthology_LightsOn.png"
+    },
+    {
+      "name": "category_Action_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Action_1.png"
+    },
+    {
+      "name": "category_Action_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Action_2.png"
+    },
+    {
+      "name": "category_Action_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Action_3.png"
+    },
+    {
+      "name": "category_Awesome_Animation",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Awesome_Animation.png"
+    },
+    {
+      "name": "category_Awesome_Comedy",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Awesome_Comedy.png"
+    },
+    {
+      "name": "category_Awesome_HotEpisodes",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Awesome_HotEpisodes.png"
+    },
+    {
+      "name": "category_Awesome_HotMovies",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Awesome_HotMovies.png"
+    },
+    {
+      "name": "category_Awesome_Mystery",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Awesome_Mystery.png"
+    },
+    {
+      "name": "category_Awesome_Sci-Fi_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Awesome_Sci-Fi_1.png"
+    },
+    {
+      "name": "category_Awesome_Sci-Fi_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Awesome_Sci-Fi_2.png"
+    },
+    {
+      "name": "category_Awesome_Show",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Awesome_Show.png"
+    },
+    {
+      "name": "category_Children",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Children.png"
+    },
+    {
+      "name": "category_Comedy_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Comedy_1.png"
+    },
+    {
+      "name": "category_Comedy_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Comedy_2.png"
+    },
+    {
+      "name": "category_Comedy_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Comedy_3.png"
+    },
+    {
+      "name": "category_Crime",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Crime.png"
+    },
+    {
+      "name": "category_Documentary_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Documentary_1.png"
+    },
+    {
+      "name": "category_Documentary_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Documentary_2.png"
+    },
+    {
+      "name": "category_Documentary_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Documentary_3.png"
+    },
+    {
+      "name": "category_Documentary_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Documentary_4.png"
+    },
+    {
+      "name": "category_Drama",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Drama.png"
+    },
+    {
+      "name": "category_Family",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Family.png"
+    },
+    {
+      "name": "category_Historical_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Historical_1.png"
+    },
+    {
+      "name": "category_Historical_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Historical_2.png"
+    },
+    {
+      "name": "category_Horror_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Horror_1.png"
+    },
+    {
+      "name": "category_Horror_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Horror_2.png"
+    },
+    {
+      "name": "category_Mystery_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Mystery_1.png"
+    },
+    {
+      "name": "category_Mystery_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Mystery_2.png"
+    },
+    {
+      "name": "category_Mystery_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Mystery_3.png"
+    },
+    {
+      "name": "category_Romance_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Romance_1.png"
+    },
+    {
+      "name": "category_Romance_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Romance_2.png"
+    },
+    {
+      "name": "category_Romance_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Romance_3.png"
+    },
+    {
+      "name": "category_Sci-FI_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Sci-FI_3.png"
+    },
+    {
+      "name": "category_Sci-Fi_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Sci-Fi_1.png"
+    },
+    {
+      "name": "category_Sci-Fi_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Sci-Fi_2.png"
+    },
+    {
+      "name": "category_Show_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Show_1.png"
+    },
+    {
+      "name": "category_Show_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Show_2.png"
+    },
+    {
+      "name": "category_Thriller_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Thriller_1.png"
+    },
+    {
+      "name": "category_Thriller_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Thriller_2.png"
+    },
+    {
+      "name": "category_Thriller_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Thriller_3.png"
+    },
+    {
+      "name": "category_Thriller_4",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Thriller_4.png"
+    },
+    {
+      "name": "category_Thriller_5",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Thriller_5.png"
+    },
+    {
+      "name": "category_Wuxia",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Wuxia.png"
+    },
+    {
+      "name": "category_Zombie_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Zombie_1.png"
+    },
+    {
+      "name": "category_Zombie_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Zombie_2.png"
+    },
+    {
+      "name": "category_Zombie_3",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/Categories/category_Zombie_3.png"
+    }
+  ]
+}

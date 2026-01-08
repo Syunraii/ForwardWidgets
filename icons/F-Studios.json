@@ -15,10 +15,6 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Bind.png"
     },
     {
-      "name": "JP_BlumHouse",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_BlumHouse.png"
-    },
-    {
       "name": "JP_Bones_1",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Bones_1.png"
     },
@@ -149,6 +145,10 @@
     {
       "name": "US_A24_2",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_A24_2.png"
+    },
+    {
+      "name": "US_BlumHouse",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_BlumHouse.png"
     },
     {
       "name": "US_DCStudios_1",

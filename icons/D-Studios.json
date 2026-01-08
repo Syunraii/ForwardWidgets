@@ -1,5 +1,10 @@
 {
   "name": "MyForwardIcons-D-Studios",
   "description": "国内工作室",
-  "icons": []
+  "icons": [
+    {
+      "name": "PlaceHolder",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Studios/PlaceHolder.png"
+    }
+  ]
 }
