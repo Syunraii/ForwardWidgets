@@ -5,13 +5,13 @@
     "widgets": [
     {
       "id": "sfw.combined.media_lists",
-      "title": "🧰【聚合】影视榜单",
+      "title": "【聚合】影视榜单",
       "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
       "requiredVersion": "0.0.2",
       "version": "1.0.0",
       "author": "阿米诺斯",
       "site": "Unknown",
-      "url": "https://for-ward.vercel.app/Widgets/combined.js"
+      "url": "https://for-ward.vercel.app/Widgets/Move_list.js"
     },
     {
       "id": "sfw.combined.yatu",
