@@ -559,8 +559,24 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ToeiAnimation_1_black.png"
     },
     {
+      "name": "JP_ToeiAnimation_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ToeiAnimation_1_white.png"
+    },
+    {
+      "name": "JP_ToeiAnimation_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ToeiAnimation_2_black.png"
+    },
+    {
       "name": "JP_ToeiAnimation_2_white",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ToeiAnimation_2_white.png"
+    },
+    {
+      "name": "JP_ToeiAnimation_3_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ToeiAnimation_3_black.png"
+    },
+    {
+      "name": "JP_ToeiAnimation_3_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ToeiAnimation_3_white.png"
     },
     {
       "name": "JP_Toho_Finally",
