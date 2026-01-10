@@ -1,6 +1,6 @@
 {
   "name": "MyForwardIcons-F-Studios",
-  "description": "🧰国外工作室(只有黑没其他色的标记为待处理)",
+  "description": "国外工作室",
   "icons": [
     {
       "name": "JP_8bit_Finally",
@@ -55,12 +55,28 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_BNPictures_white.png"
     },
     {
-      "name": "JP_BandaiNamco_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_BandaiNamco_black.png"
+      "name": "JP_BandaiNamco_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_BandaiNamco_1_black.png"
     },
     {
-      "name": "JP_BandaiNamco_white",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_BandaiNamco_white.png"
+      "name": "JP_BandaiNamco_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_BandaiNamco_1_white.png"
+    },
+    {
+      "name": "JP_BandaiNamco_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_BandaiNamco_2_black.png"
+    },
+    {
+      "name": "JP_BandaiNamco_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_BandaiNamco_2_white.png"
+    },
+    {
+      "name": "JP_BandaiNamco_Holdings_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_BandaiNamco_Holdings_black.png"
+    },
+    {
+      "name": "JP_BandaiNamco_Holdings_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_BandaiNamco_Holdings_white.png"
     },
     {
       "name": "JP_BiburyAnimationStudios_Finally",
@@ -75,8 +91,36 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Bones_white.png"
     },
     {
+      "name": "JP_Brain'sBase_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Brain'sBase_2_black.png"
+    },
+    {
       "name": "JP_Brain'sBase_Finally",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Brain'sBase_Finally.png"
+    },
+    {
+      "name": "JP_Brain'sBase_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Brain'sBase_white.png"
+    },
+    {
+      "name": "JP_C2C_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_C2C_black.png"
+    },
+    {
+      "name": "JP_C2C_gray",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_C2C_gray.png"
+    },
+    {
+      "name": "JP_C2C_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_C2C_white.png"
+    },
+    {
+      "name": "JP_CLAMP_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_CLAMP_black.png"
+    },
+    {
+      "name": "JP_CLAMP_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_CLAMP_white.png"
     },
     {
       "name": "JP_CloverWorks_Finally_1",
@@ -87,24 +131,88 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_CloverWorks_Finally_2.png"
     },
     {
+      "name": "JP_CoMixWaveFilms_1_Original",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_CoMixWaveFilms_1_Original.png"
+    },
+    {
+      "name": "JP_CoMixWaveFilms_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_CoMixWaveFilms_1_white.png"
+    },
+    {
       "name": "JP_CoMixWaveFilms_black",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_CoMixWaveFilms_black.png"
     },
     {
-      "name": "JP_CoMixWaveFilms_white",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_CoMixWaveFilms_white.png"
+      "name": "JP_ComixWaveFilms_2_Original",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ComixWaveFilms_2_Original.png"
+    },
+    {
+      "name": "JP_ComixWaveFilms_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ComixWaveFilms_2_black.png"
+    },
+    {
+      "name": "JP_ComixWaveFilms_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ComixWaveFilms_2_white.png"
     },
     {
       "name": "JP_ConnectAnimation_white",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ConnectAnimation_white.png"
     },
     {
+      "name": "JP_CygamesPictures_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_CygamesPictures_1_black.png"
+    },
+    {
+      "name": "JP_CygamesPictures_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_CygamesPictures_1_white.png"
+    },
+    {
+      "name": "JP_CygamesPictures_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_CygamesPictures_2_black.png"
+    },
+    {
+      "name": "JP_CygamesPictures_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_CygamesPictures_2_white.png"
+    },
+    {
+      "name": "JP_DavidProduction_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_DavidProduction_1_black.png"
+    },
+    {
+      "name": "JP_DavidProduction_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_DavidProduction_1_white.png"
+    },
+    {
+      "name": "JP_DavidProduction_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_DavidProduction_2_black.png"
+    },
+    {
+      "name": "JP_DavidProduction_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_DavidProduction_2_white.png"
+    },
+    {
       "name": "JP_Diomedea_Finally",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Diomedea_Finally.png"
     },
     {
-      "name": "JP_DogaKobo_Finally",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_DogaKobo_Finally.png"
+      "name": "JP_DogaKobo_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_DogaKobo_black.png"
+    },
+    {
+      "name": "JP_DogaKobo_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_DogaKobo_white.png"
+    },
+    {
+      "name": "JP_Feel_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Feel_Finally.png"
+    },
+    {
+      "name": "JP_Feel_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Feel_black.png"
+    },
+    {
+      "name": "JP_Feel_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Feel_white.png"
     },
     {
       "name": "JP_GAINAX_Finally_1",
@@ -115,12 +223,32 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_GAINAX_Finally_2.png"
     },
     {
-      "name": "JP_GONZO_gray",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_GONZO_gray.png"
+      "name": "JP_GONZO_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_GONZO_black.png"
     },
     {
-      "name": "JP_GoHands_gray",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_GoHands_gray.png"
+      "name": "JP_GONZO_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_GONZO_white.png"
+    },
+    {
+      "name": "JP_GenoStudio_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_GenoStudio_black.png"
+    },
+    {
+      "name": "JP_GenoStudio_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_GenoStudio_white.png"
+    },
+    {
+      "name": "JP_GoHands_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_GoHands_1_black.png"
+    },
+    {
+      "name": "JP_GoHands_2_gray",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_GoHands_2_gray.png"
+    },
+    {
+      "name": "JP_GoHands_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_GoHands_2_white.png"
     },
     {
       "name": "JP_J.C.Staff_gray",
@@ -131,12 +259,24 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_J.C.Staff_white.png"
     },
     {
+      "name": "JP_KeyVisualArts_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_KeyVisualArts_black.png"
+    },
+    {
+      "name": "JP_KeyVisualArts_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_KeyVisualArts_white.png"
+    },
+    {
+      "name": "JP_Khara_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Khara_black.png"
+    },
+    {
       "name": "JP_Khara_white",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Khara_white.png"
     },
     {
-      "name": "JP_KinemaCitrus_1",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_KinemaCitrus_1.png"
+      "name": "JP_KinemaCitrus_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_KinemaCitrus_Finally.png"
     },
     {
       "name": "JP_KyotoAnimation_Finally_1",
@@ -147,8 +287,20 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_KyotoAnimation_Finally_2.png"
     },
     {
+      "name": "JP_Lerche_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Lerche_black.png"
+    },
+    {
+      "name": "JP_Lerche_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Lerche_white.png"
+    },
+    {
       "name": "JP_LidenFilms_Finally",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_LidenFilms_Finally.png"
+    },
+    {
+      "name": "JP_LidenFilms_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_LidenFilms_white.png"
     },
     {
       "name": "JP_MAPPA_Finally_1",
@@ -171,8 +323,20 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Madhouse_white.png"
     },
     {
+      "name": "JP_Manglobe_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Manglobe_Finally.png"
+    },
+    {
       "name": "JP_Nexus_Finally",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Nexus_Finally.png"
+    },
+    {
+      "name": "JP_Nomad_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Nomad_black.png"
+    },
+    {
+      "name": "JP_Nomad_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Nomad_white.png"
     },
     {
       "name": "JP_OLM_Finally_1",
@@ -183,8 +347,24 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_OLM_Finally_2.png"
     },
     {
+      "name": "JP_Orange_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Orange_black.png"
+    },
+    {
+      "name": "JP_Orange_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Orange_white.png"
+    },
+    {
       "name": "JP_P.A.Works_orange",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_P.A.Works_orange.png"
+    },
+    {
+      "name": "JP_P.A.Works_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_P.A.Works_white.png"
+    },
+    {
+      "name": "JP_Passione_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Passione_Finally.png"
     },
     {
       "name": "JP_Pierrot_black",
@@ -203,24 +383,96 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Pierrot_yellow.png"
     },
     {
-      "name": "JP_ProductionI.G_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ProductionI.G_black.png"
+      "name": "JP_Production.I.G_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Production.I.G_1_black.png"
     },
     {
-      "name": "JP_ProductionIG_white",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ProductionIG_white.png"
+      "name": "JP_Production.I.G_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Production.I.G_1_white.png"
+    },
+    {
+      "name": "JP_Production.I.G_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Production.I.G_2_black.png"
+    },
+    {
+      "name": "JP_Production.I.G_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Production.I.G_2_white.png"
     },
     {
       "name": "JP_ProjectNo.9_Finally",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ProjectNo.9_Finally.png"
     },
     {
-      "name": "JP_Sanzigen_blue",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Sanzigen_blue.png"
+      "name": "JP_SHIN-EI_1_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_SHIN-EI_1_Finally.png"
     },
     {
-      "name": "JP_SateLight_Finally",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_SateLight_Finally.png"
+      "name": "JP_SHIN-EI_2_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_SHIN-EI_2_Finally.png"
+    },
+    {
+      "name": "JP_Sanzigen_1_blue",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Sanzigen_1_blue.png"
+    },
+    {
+      "name": "JP_Sanzigen_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Sanzigen_1_white.png"
+    },
+    {
+      "name": "JP_Sanzigen_2_blue",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Sanzigen_2_blue.png"
+    },
+    {
+      "name": "JP_Sanzigen_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Sanzigen_2_white.png"
+    },
+    {
+      "name": "JP_SateLight_1_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_SateLight_1_Finally.png"
+    },
+    {
+      "name": "JP_SateLight_2_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_SateLight_2_Finally.png"
+    },
+    {
+      "name": "JP_ScienceSARU_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ScienceSARU_1_black.png"
+    },
+    {
+      "name": "JP_ScienceSARU_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ScienceSARU_1_white.png"
+    },
+    {
+      "name": "JP_ScienceSARU_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ScienceSARU_2_black.png"
+    },
+    {
+      "name": "JP_ScienceSARU_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ScienceSARU_2_white.png"
+    },
+    {
+      "name": "JP_SevenArcs_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_SevenArcs_1_black.png"
+    },
+    {
+      "name": "JP_SevenArcs_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_SevenArcs_1_white.png"
+    },
+    {
+      "name": "JP_SevenArcs_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_SevenArcs_2_black.png"
+    },
+    {
+      "name": "JP_SevenArcs_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_SevenArcs_2_white.png"
+    },
+    {
+      "name": "JP_ShaftStudio_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ShaftStudio_black.png"
+    },
+    {
+      "name": "JP_ShaftStudio_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ShaftStudio_white.png"
     },
     {
       "name": "JP_SilverLink_black",
@@ -231,40 +483,44 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_SilverLink_white.png"
     },
     {
-      "name": "JP_StudioBind_Finally_1",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioBind_Finally_1.png"
+      "name": "JP_StudioBind_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioBind_Finally.png"
     },
     {
-      "name": "JP_StudioBind_Finally_2",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioBind_Finally_2.png"
+      "name": "JP_StudioDeen_1_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioDeen_1_Finally.png"
     },
     {
-      "name": "JP_StudioBind_Finally_3",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioBind_Finally_3.png"
+      "name": "JP_StudioDeen_2_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioDeen_2_Finally.png"
     },
     {
-      "name": "JP_StudioDeen_Finally",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioDeen_Finally.png"
+      "name": "JP_StudioGhibli_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioGhibli_1_black.png"
     },
     {
-      "name": "JP_StudioGhibli2_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioGhibli2_black.png"
+      "name": "JP_StudioGhibli_1_blue",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioGhibli_1_blue.png"
     },
     {
-      "name": "JP_StudioGhibli2_white",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioGhibli2_white.png"
+      "name": "JP_StudioGhibli_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioGhibli_1_white.png"
     },
     {
-      "name": "JP_StudioGhibli_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioGhibli_black.png"
+      "name": "JP_StudioGhibli_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioGhibli_2_black.png"
     },
     {
-      "name": "JP_StudioGhibli_blue",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioGhibli_blue.png"
+      "name": "JP_StudioGhibli_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioGhibli_2_white.png"
     },
     {
-      "name": "JP_StudioGhibli_white",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioGhibli_white.png"
+      "name": "JP_StudioGoku-white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioGoku-white.png"
+    },
+    {
+      "name": "JP_StudioGoku_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioGoku_black.png"
     },
     {
       "name": "JP_StudioHibari_black",
@@ -275,8 +531,16 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioHibari_white.png"
     },
     {
-      "name": "JP_StudioKai_Finally",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioKai_Finally.png"
+      "name": "JP_StudioKai_1_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioKai_1_Finally.png"
+    },
+    {
+      "name": "JP_StudioKai_2_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_StudioKai_2_Finally.png"
+    },
+    {
+      "name": "JP_Sunrise_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Sunrise_black.png"
     },
     {
       "name": "JP_Sunrise_white",
@@ -291,12 +555,12 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_TezukaProductions_Finally.png"
     },
     {
-      "name": "JP_ToeiAnimation_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ToeiAnimation_black.png"
+      "name": "JP_ToeiAnimation_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ToeiAnimation_1_black.png"
     },
     {
-      "name": "JP_ToeiAnimation_white",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ToeiAnimation_white.png"
+      "name": "JP_ToeiAnimation_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ToeiAnimation_2_white.png"
     },
     {
       "name": "JP_Toho_Finally",
@@ -315,20 +579,36 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Trigger_white.png"
     },
     {
-      "name": "JP_Ufotable_Finally_1",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Ufotable_Finally_1.png"
+      "name": "JP_Ufotable_1_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Ufotable_1_Finally.png"
     },
     {
-      "name": "JP_Ufotable_Finally_2",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Ufotable_Finally_2.png"
+      "name": "JP_Ufotable_2_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Ufotable_2_Finally.png"
     },
     {
-      "name": "JP_WhiteFox_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_WhiteFox_black.png"
+      "name": "JP_WhiteFox_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_WhiteFox_1_black.png"
     },
     {
-      "name": "JP_WhiteFox_white",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_WhiteFox_white.png"
+      "name": "JP_WhiteFox_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_WhiteFox_1_white.png"
+    },
+    {
+      "name": "JP_WhiteFox_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_WhiteFox_2_black.png"
+    },
+    {
+      "name": "JP_WhiteFox_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_WhiteFox_2_white.png"
+    },
+    {
+      "name": "JP_WhiteFox_3_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_WhiteFox_3_black.png"
+    },
+    {
+      "name": "JP_WhiteFox_3_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_WhiteFox_3_white.png"
     },
     {
       "name": "JP_WitStudio_black",
@@ -343,6 +623,14 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_XEBEC_Finally.png"
     },
     {
+      "name": "JP_YostarPictures_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_YostarPictures_black.png"
+    },
+    {
+      "name": "JP_YostarPictures_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_YostarPictures_white.png"
+    },
+    {
       "name": "JP_ZERO-G_black",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ZERO-G_black.png"
     },
@@ -351,140 +639,8 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ZERO-G_white.png"
     },
     {
-      "name": "Pending_JP_C2C",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_C2C.png"
-    },
-    {
-      "name": "Pending_JP_C2C_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_C2C_black.png"
-    },
-    {
-      "name": "Pending_JP_ConnectAnimation",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_ConnectAnimation.png"
-    },
-    {
-      "name": "Pending_JP_CygamesPictures",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_CygamesPictures.png"
-    },
-    {
-      "name": "Pending_JP_CygamesPictures_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_CygamesPictures_black.png"
-    },
-    {
-      "name": "Pending_JP_DavidProduction",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_DavidProduction.png"
-    },
-    {
-      "name": "Pending_JP_Feel_1",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_Feel_1.png"
-    },
-    {
-      "name": "Pending_JP_Feel_2",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_Feel_2.png"
-    },
-    {
-      "name": "Pending_JP_GenoStudio",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_GenoStudio.png"
-    },
-    {
-      "name": "Pending_JP_GenoStudio_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_GenoStudio_black.png"
-    },
-    {
-      "name": "Pending_JP_GoHands",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_GoHands.png"
-    },
-    {
-      "name": "Pending_JP_KeyVisualArts_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_KeyVisualArts_black.png"
-    },
-    {
-      "name": "Pending_JP_Khara",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_Khara.png"
-    },
-    {
-      "name": "Pending_JP_Lerche_1",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_Lerche_1.png"
-    },
-    {
-      "name": "Pending_JP_Lerche_2",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_Lerche_2.png"
-    },
-    {
-      "name": "Pending_JP_Manglobe_1",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_Manglobe_1.png"
-    },
-    {
-      "name": "Pending_JP_Manglobe_2",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_Manglobe_2.png"
-    },
-    {
-      "name": "Pending_JP_Manglobe_3",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_Manglobe_3.png"
-    },
-    {
-      "name": "Pending_JP_Nomad_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_Nomad_black.png"
-    },
-    {
-      "name": "Pending_JP_Orange_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_Orange_black.png"
-    },
-    {
-      "name": "Pending_JP_Passione",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_Passione.png"
-    },
-    {
-      "name": "Pending_JP_SHIN-EI",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_SHIN-EI.png"
-    },
-    {
-      "name": "Pending_JP_SHIN-EI_1",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_SHIN-EI_1.png"
-    },
-    {
-      "name": "Pending_JP_SHIN-EI_2",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_SHIN-EI_2.png"
-    },
-    {
-      "name": "Pending_JP_Sanzigen",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_Sanzigen.png"
-    },
-    {
-      "name": "Pending_JP_SateLight",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_SateLight.png"
-    },
-    {
-      "name": "Pending_JP_ScienceSARU",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_ScienceSARU.png"
-    },
-    {
-      "name": "Pending_JP_ScienceSARU_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_ScienceSARU_black.png"
-    },
-    {
-      "name": "Pending_JP_SevenArcs",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_SevenArcs.png"
-    },
-    {
-      "name": "Pending_JP_SevenArcs_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_SevenArcs_black.png"
-    },
-    {
-      "name": "Pending_JP_ShaftStudio_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_ShaftStudio_black.png"
-    },
-    {
-      "name": "Pending_JP_StudioGoku",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_StudioGoku.png"
-    },
-    {
-      "name": "Pending_JP_YostarPictures",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_YostarPictures.png"
-    },
-    {
-      "name": "Pending_JP_ZEXCS",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/Pending_JP_ZEXCS.png"
+      "name": "JP_ZEXCS_Finally",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_ZEXCS_Finally.png"
     },
     {
       "name": "US_20thCenturyFox_1",
