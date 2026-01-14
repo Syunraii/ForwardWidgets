@@ -1,6 +1,6 @@
 {
   "name": "MyForwardIcons-F-Studios",
-  "description": "国外工作室",
+  "description": "国外工作室, 折扣码【RINKO】",
   "icons": [
     {
       "name": "JP_8bit_Finally",
@@ -275,8 +275,12 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_Khara_white.png"
     },
     {
-      "name": "JP_KinemaCitrus_Finally",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_KinemaCitrus_Finally.png"
+      "name": "JP_KinemaCitrus_green",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_KinemaCitrus_green.png"
+    },
+    {
+      "name": "JP_KinemaCitrus_pink",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/JP_KinemaCitrus_pink.png"
     },
     {
       "name": "JP_KyotoAnimation_Finally_1",
@@ -679,12 +683,20 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_20thCenturyStudios_3.png"
     },
     {
-      "name": "US_A24_1",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_A24_1.png"
+      "name": "US_A24_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_A24_1_black.png"
     },
     {
-      "name": "US_A24_2",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_A24_2.png"
+      "name": "US_A24_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_A24_1_white.png"
+    },
+    {
+      "name": "US_A24_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_A24_2_black.PNG"
+    },
+    {
+      "name": "US_A24_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_A24_2_white.PNG"
     },
     {
       "name": "US_BlumHouse",
@@ -705,6 +717,18 @@
     {
       "name": "US_DCStudios_4",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_DCStudios_4.png"
+    },
+    {
+      "name": "US_DCStudios_5",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_DCStudios_5.PNG"
+    },
+    {
+      "name": "US_DCStudios_5_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_DCStudios_5_black.PNG"
+    },
+    {
+      "name": "US_DCStudios_5_gray",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_DCStudios_5_gray.PNG"
     },
     {
       "name": "US_DisneyPictures_1",
@@ -747,6 +771,14 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_DreamWorks_5.png"
     },
     {
+      "name": "US_Fox_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Fox_1_black.PNG"
+    },
+    {
+      "name": "US_Fox_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Fox_1_white.PNG"
+    },
+    {
       "name": "US_Legendary_1",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Legendary_1.png"
     },
@@ -765,6 +797,18 @@
     {
       "name": "US_MarvelStudios_2",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_MarvelStudios_2.png"
+    },
+    {
+      "name": "US_Paramount+_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Paramount+_black.PNG"
+    },
+    {
+      "name": "US_Paramount+_blue",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Paramount+_blue.PNG"
+    },
+    {
+      "name": "US_Paramount+_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Paramount+_white.PNG"
     },
     {
       "name": "US_Paramount_1",
@@ -793,6 +837,14 @@
     {
       "name": "US_Pixar_2",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Pixar_2.png"
+    },
+    {
+      "name": "US_Pixar_3_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Pixar_3_black.PNG"
+    },
+    {
+      "name": "US_Pixar_3_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Pixar_3_white.PNG"
     },
     {
       "name": "US_Sony_1",
@@ -849,6 +901,14 @@
     {
       "name": "US_WarnerBros_5",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_WarnerBros_5.png"
+    },
+    {
+      "name": "US_Workingtitle_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Workingtitle_black.PNG"
+    },
+    {
+      "name": "US_Workingtitle_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Workingtitle_white.PNG"
     }
   ]
 }

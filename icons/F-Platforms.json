@@ -1,6 +1,6 @@
 {
   "name": "MyForwardIcons-F-Platforms",
-  "description": "国外媒体平台",
+  "description": "国外媒体平台, 折扣码【RINKO】",
   "icons": [
     {
       "name": "JP_Abema_1",
@@ -240,19 +240,27 @@
     },
     {
       "name": "Other_US_Imdb_1",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Imdb_1.png"
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Imdb_1.PNG"
+    },
+    {
+      "name": "Other_US_Imdb_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Imdb_2_black.PNG"
+    },
+    {
+      "name": "Other_US_Imdb_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Imdb_2_white.PNG"
     },
     {
       "name": "Other_US_Plex_1",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Plex_1.png"
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Plex_1.PNG"
     },
     {
-      "name": "Other_US_Plex_2",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Plex_2.png"
+      "name": "Other_US_Plex_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Plex_2_black.PNG"
     },
     {
-      "name": "Other_US_Plex_3",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Plex_3.png"
+      "name": "Other_US_Plex_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Plex_2_white.PNG"
     },
     {
       "name": "Other_US_RottenTomatoes_1",
@@ -279,6 +287,30 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Tmdb.png"
     },
     {
+      "name": "Other_US_Tmdb_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Tmdb_1.PNG"
+    },
+    {
+      "name": "Other_US_Tmdb_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Tmdb_black.PNG"
+    },
+    {
+      "name": "Other_US_Tmdb_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Tmdb_white.PNG"
+    },
+    {
+      "name": "Other_US_Trakt_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Trakt_1.PNG"
+    },
+    {
+      "name": "Other_US_Trakt_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Trakt_2_black.PNG"
+    },
+    {
+      "name": "Other_US_Trakt_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Trakt_2_white.PNG"
+    },
+    {
       "name": "Other_US_Youtube_1",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Youtube_1.png"
     },
@@ -291,16 +323,8 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_Youtube_3.png"
     },
     {
-      "name": "Other_US_imdb_2",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_imdb_2.png"
-    },
-    {
       "name": "Other_US_imdb_3",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_imdb_3.png"
-    },
-    {
-      "name": "Other_US_imdb_4",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Platforms/Other_US_imdb_4.png"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "name": "MyForwardIcons-D-Platforms",
-  "description": "国内媒体平台",
+  "description": "国内媒体平台, 折扣码【RINKO】",
   "icons": [
     {
       "name": "bangumi_1",
@@ -17,6 +17,14 @@
     {
       "name": "bangumi_4",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/bangumi_4.png"
+    },
+    {
+      "name": "bangumi_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/bangumi_black.PNG"
+    },
+    {
+      "name": "bangumi_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/bangumi_white.PNG"
     },
     {
       "name": "bilibili_1",
@@ -71,8 +79,20 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/douban_5.png"
     },
     {
-      "name": "douban_6",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/douban_6.png"
+      "name": "douban_6_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/douban_6_black.PNG"
+    },
+    {
+      "name": "douban_6_green",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/douban_6_green.PNG"
+    },
+    {
+      "name": "douban_6_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/douban_6_white.PNG"
+    },
+    {
+      "name": "douban_7",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/douban_7.png"
     },
     {
       "name": "iqiyi_1",
@@ -135,24 +155,60 @@
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_2.png"
     },
     {
-      "name": "tvb_3",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_3.png"
+      "name": "tvb_3_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_3_black.png"
     },
     {
-      "name": "tvb_4",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_4.png"
+      "name": "tvb_3_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_3_white.png"
+    },
+    {
+      "name": "tvb_4_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_4_black.PNG"
+    },
+    {
+      "name": "tvb_4_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_4_white.png"
     },
     {
       "name": "tvb_5",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_5.png"
     },
     {
-      "name": "tvb_6",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_6.png"
+      "name": "tvb_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_black.PNG"
+    },
+    {
+      "name": "tvb_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/tvb_white.PNG"
     },
     {
       "name": "viutv_1",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/viutv_1.png"
+    },
+    {
+      "name": "viutv_2",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/viutv_2.PNG"
+    },
+    {
+      "name": "viutv_3_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/viutv_3_black.PNG"
+    },
+    {
+      "name": "viutv_3_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/viutv_3_white.PNG"
+    },
+    {
+      "name": "wetv_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/wetv_1_black.PNG"
+    },
+    {
+      "name": "wetv_2_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/wetv_2_black.PNG"
+    },
+    {
+      "name": "wetv_2_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Platforms/wetv_2_white.PNG"
     },
     {
       "name": "youku_1",

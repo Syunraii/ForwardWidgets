@@ -3,8 +3,16 @@
   "description": "国内工作室",
   "icons": [
     {
-      "name": "PlaceHolder",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Studios/PlaceHolder.png"
+      "name": "ChinaFilm_1",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Studios/ChinaFilm_1.PNG"
+    },
+    {
+      "name": "ChinaFilm_1_black",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Studios/ChinaFilm_1_black.PNG"
+    },
+    {
+      "name": "ChinaFilm_1_white",
+      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/D-Studios/ChinaFilm_1_white.PNG"
     }
   ]
 }
