@@ -1,6 +1,6 @@
 {
   "name": "MyForwardIcons-F-Studios",
-  "description": "国外工作室, 折扣码【RINKO】",
+  "description": "国外工作室/制作公司, 折扣码【RINKO】",
   "icons": [
     {
       "name": "JP_8bit_Finally",
@@ -797,18 +797,6 @@
     {
       "name": "US_MarvelStudios_2",
       "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_MarvelStudios_2.png"
-    },
-    {
-      "name": "US_Paramount+_black",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Paramount+_black.png"
-    },
-    {
-      "name": "US_Paramount+_blue",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Paramount+_blue.png"
-    },
-    {
-      "name": "US_Paramount+_white",
-      "url": "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons/F-Studios/US_Paramount+_white.png"
     },
     {
       "name": "US_Paramount_1",

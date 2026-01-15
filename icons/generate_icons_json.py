@@ -8,11 +8,11 @@ LastEditTime: 2026-01-08 03:19:08
 import os
 import json
 
-ICON_ROOT = "icons"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))  # 脚本所在目录
+ICON_ROOT = SCRIPT_DIR   # 直接就是 icons/ 目录
 GITHUB_BASE_URL = "https://raw.githubusercontent.com/Syunraii/ForwardWidgets/refs/heads/master/icons"
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".gif", ".bmp", ".svg"}
 
-# 在这里自定义需要排到最后的前缀，可以随时扩展
 PREFIXES_TO_LAST = ["Other", "Temp"]
 
 def is_image_file(filename):
@@ -48,4 +48,5 @@ def update_icons_json():
 
 if __name__ == "__main__":
     update_icons_json()
+
 
